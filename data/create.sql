@@ -11,12 +11,12 @@ CREATE TABLE player (
     birthDate DATE,
     birthCity VARCHAR(255),
     birthState VARCHAR(255),
-    birthCountry VARCHAR(2),
+    birthCountry VARCHAR(10),
     birthCountry_ VARCHAR(255),
     highSchool VARCHAR(255),
     hsCity VARCHAR(255),
     hsState VARCHAR(255),
-    hsCountry VARCHAR(2),
+    hsCountry VARCHAR(10),
     hsCountry_ VARCHAR(255)
 );
 
