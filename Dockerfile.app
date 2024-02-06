@@ -7,3 +7,6 @@ COPY app/ ./
 RUN tsc
 EXPOSE 8080
 CMD ["node", "app.js"]
+
+
+
