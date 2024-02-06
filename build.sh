@@ -11,3 +11,5 @@ if docker images --format "{{.Repository}}:{{.Tag}}" | grep -q "^${IMAGE_NAME_DB
     docker rmi ${IMAGE_NAME_DB}
 fi
 docker build -t db -f Dockerfile.db .
+
+
