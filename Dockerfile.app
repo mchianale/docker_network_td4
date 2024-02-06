@@ -5,9 +5,6 @@ COPY app/package*.json ./
 # Install dependencies
 RUN npm ci
 
-# Install TypeScript globally
-RUN npm install -g typescript
-
 # Copy the rest of your application code
 COPY app/ ./
 
