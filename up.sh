@@ -1,5 +1,8 @@
 #API
 CON_APP="app"
+if docker ps -q -f name=^/${CON_APP}$; then
+    docker stop "${CON_APP}"
+fi
 if docker ps -a -q -f name=^/${CON_APP}$; then
     docker rm "${CON_APP}"
 fi
@@ -9,6 +12,9 @@ docker network connect my-tiny-network app
 
 #DB
 CON_DB="db"
+if docker ps -q -f name=^/${CON_DB}$; then
+    docker stop "${CON_DB}"
+fi
 if docker ps -a -q -f name=^/${CON_DB}$; then
     docker rm "${CON_DB}"
 fi
