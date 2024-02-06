@@ -1,0 +1,894 @@
+_id;firstName;middleName;lastName;nameNick;pos;height;weight;college;birthDate;birthCity;birthState;birthCountry;birthCountry_;highSchool;hsCity;hsState;hsCountry;hsCountry_
+abrahta01w;Tajama;Ethia;Abraham;TJ,Taj;Center;187.96;86.182;George Washington;1975-09-27;St,croix;;ISV;U.S. Virgin Islands;Kecoughtan;Hampton;VA;USA;United States of America
+abrossv01w;Svetlana;Olegovna;Abrosimova;Svet,Sveta;Forward;187.96;76.657;Connecticut;1980-07-09;St. petersburg;;RUS;Russia;Petrogradskoi n86;St. petersburg;;RUS;Russia
+adairje01w;Jessica;Elizabeth;Adair;;Center;193.04;89.358;George Washington;1986-12-19;Washington;DC;USA;United States of America;Anacostia senior;Washington;DC;USA;United States of America
+adamsda01w;Danielle;E.;Adams;;Forward-Center;185.42;108.408;Texas A&M;1989-02-19;Kansas city;;USA;United States of America;Lee's summit;Lee's summit;MO;USA;United States of America
+adamsjo01w;Jordan;;Adams;;Center;190.5;81.647;New Mexico;1981-05-24;Las vegas;;USA;United States of America;Moapa valley;Overton;NV;USA;United States of America
+adamsmi01w;Michael;;Adams;;;;;;;;;;;;;;;
+adubari99w;Richie;;Adubato;;;;;;;;;;;;;;;
+aglerbr99w;Brian;;Alger;;;;;;;;;;;;;;;
+aguilel01w;Elisabeth;;Aguilar Lopez;Elisa;Guard;170.18;74.843;George Washington;1976-10-15;Madrid;;ESP;Spain;;;;;
+ajavoma01w;Matee;;Ajavon;;Guard;172.72;72.575;Rutgers;1986-05-07;Monrovia;;LBR;Liberia;Malcolm x. shabazz;Newark;NJ;USA;United States of America
+alberma01w;Marcie;;Alberts;;Guard;162.56;;Ohio State;1975-04-12;Wooster;;USA;United States of America;Orrville;Orrville;OH;USA;United States of America
+aldrima01w;Markita;;Aldridge;Kita;Guard;180.34;69.4;UNC Charlotte;1973-09-15;Detroit;MI;USA;United States of America;Martin luther king;Detroit;MI;USA;United States of America
+alexaer01w;Erin;;Alexander;;Guard;170.18;63.503;California-Santa Barbara;1975-04-25;Santa ynez;CA;USA;United States of America;Santa ynez;Santa ynez;CA;USA;United States of America
+alhalta01w;Tawona;;Alhaleem;T;Guard-Forward;182.88;67.585;DePaul;1974-10-17;Flint;MI;USA;United States of America;Flint central;Flint;MI;USA;United States of America
+allench01w;Charel;;Allen;;Guard;180.34;61.235;Notre Dame;1986-07-23;Monessen;PA;USA;United States of America;Monessen;Monessen;PA;USA;United States of America
+allenso99w;Sonny;;Allen;;;;;;;;;;;;;;;
+amachma01w;Mactabene;;Amachree;;Forward;185.42;79.379;;1978-01-30;Port harcourt;;NGR;Nigeria;;;;;
+ambermo01w;Monique;;Ambers;;Forward;193.04;76.657;Arizona State;1970-12-21;;;;;;;;;
+anderam01w;Ambrosia;;Anderson;;Forward;182.88;75.75;Brigham Young;1984-03-14;;;;;;;;;
+anderch01w;Chantelle;;Anderson;;Center;198.12;86.182;Vanderbilt;1981-01-22;;;;;;;;;
+anderjo01w;Jolene;;Anderson;;Guard;172.72;75.296;Wisconsin;1986-07-22;;;;;;;;;
+anderke01w;Keisha;;Anderson;;Guard;170.18;56.699;Wisconsin;1974-05-17;;;;;;;;;
+andrame01w;Mery;;Andrade;;Forward;180.34;74.843;Old Dominion;1975-12-31;;;;;;;;;
+angelyv01w;Yvette;;Angel;;Guard;172.72;72.575;Ohio State;1963-10-14;;;;;Sacred heart academy;Amherst;NY;USA;United States of America
+anosini01w;Nkolika;Nonyalem;Anosike;Nicky;Center;190.5;95.708;Tennessee;1986-02-27;;;;;St. peters;Staten island;NY;USA;United States of America
+appelja01w;Jayne;Katherine;Appel;;Center;193.04;95.254;Stanford;1988-05-14;Berkeley;;USA;United States of America;Carondelet;Concord;CA;USA;United States of America
+arcaija01w;Janeth;dos Santos;Arcain;;Guard;180.34;66.678;none;1969-04-11;Carapicuiba;;BRA;Brazil;Minas gerais;Santo andres;;BRA;Brazil
+artiska01w;Katasha;R.;Artis;;Forward;185.42;70.307;Northeastern;1973-07-09;;;;;;;;;
+askamma01w;Marlies;;Askamp;;Center;195.58;89.811;none;1970-08-07;Dousten;;GER;Germany;;;;;
+atkinla01w;La'Tangela;;Atkinson;;Guard-Forward;182.88;78.018;North Carolina;1984-03-22;;;;;Lee central;Bishopville;SC;USA;United States of America
+atunrmo01w;Morenike;Olayinka;Atunrase;;Guard-Forward;177.8;64.864;Texas A&M;1986-04-14;;;;;;;;;
+augusse01w;Seimone;Delicia;Augustus;;Forward;182.88;81.193;Louisiana State;1984-04-30;Baton rouge;LA;USA;United States of America;Capitol;Baton rouge;LA;USA;United States of America
+aycocan01w;Angela;;Aycock;;Guard-Forward;187.96;78.018;Kansas;1973-02-28;;;;;;;;;
+ayimmi01w;Miranda;;Ayim;;Forward;190.5;;Pepperdine;1988-05-06;Chatham;;CAN;Canada;Saunders secondary school;London;ON;CAN;Canada
+azizle01w;Leigh;;Aziz;;Forward;190.5;80.286;Syracuse;1979-02-28;;;;;;;;;
+azzije01w;Jennifer;L.;Azzi;;Guard;172.72;64.864;Stanford;1968-08-31;Oak ridge;;USA;United States of America;;;;;
+badertr01w;Tricia;Lynne;Bader Binford;Bader Mader;Guard;162.56;56.699;Boise State;1973-02-26;Boise;;USA;United States of America;Roaring fork;Carbondale;CO;USA;United States of America
+bakerla01w;Laura;;Baker;;Guard;170.18;63.503;California;1968-12-18;;;;;;;;;
+bakersh01w;Sherill;;Baker;;Guard;172.72;56.699;Georgia;1982-12-03;;;;;;;;;
+balesal01w;Alison;;Bales;;Center;200.66;98.883;Duke;1985-04-04;;;;;Beavercreek;Beavercreek;OH;USA;United States of America
+banchrh01w;Rhonda;;Smith Banchero;;Center;190.5;83.915;Washington;1973-05-01;;;;;;;;;
+baranel01w;Elena;Viktorovna;Baranova;;Forward;195.58;82.554;Academy of Sport Moscow;1972-01-28;Bishkek;KYG;URS;Soviet Union;47 bishkek;Bishkek;KYG;URS;Soviet Union
+barksla01w;LaQuanda;;Barksdale;;Guard;177.8;70.76;North Carolina;1979-10-03;;;;;;;;;
+barnead01w;Adia;Oshun;Barnes;;Forward;180.34;74.843;Arizona;1977-02-03;San diego;CA;USA;United States of America;Mission bay;San diego;CA;USA;United States of America
+barnequ01w;Quacy;Maria;Barnes;Q;Center;195.58;83.915;Indiana;1976-09-26;Benton harbor;MI;USA;United States of America;Benton harbor;Benton harbor;MI;USA;United States of America
+bassmi01w;Mistie;;Bass Williams Mims;;Forward;190.5;83.461;Duke;1983-12-02;;;;;Parker;Janesville;WI;USA;United States of America
+batkosu01w;Suzy;;Batkovic;;Center;193.04;92.079;;1980-12-17;Newcastle;;AUS;Australia;;;;;
+batteja01w;Jacqueline;;Batteast;;Forward;185.42;73.935;Notre Dame;1983-03-26;;;;;;;;;
+battlas01w;Ashley;;Battle;;Forward;182.88;77.111;Connecticut;1982-05-31;;;;;The linsley school;Pittsburgh;PA;USA;United States of America
+bauerca01w;Cass;;Bauer-Bilodeau;;Forward-Center;193.04;81.647;Montana State;1972-06-27;;;;;;;;;
+beardal01w;Alana;;Beard;;Guard-Forward;180.34;72.575;Duke;1982-05-14;;;;;Southwood;Frierson;LA;USA;United States of America
+becenry01w;Ryneldi;;Becenti;;Guard;167.64;63.503;Arizona State;1971-08-11;Fort defiance;;USA;United States of America;Window rock;Window rock;AZ;USA;United States of America
+beckan99wc;Angela;;Beck;;;;;;;;;;;;;;;
+beckki01w;Kimberly;;Beck;;Guard;172.72;56.699;George Washington;1985-12-27;;;;;;;;;
+bellje01w;Jennifer;;Bell;;Forward;185.42;72.575;Florida International;1970-05-26;;;;;;;;;
+bennije01w;Jenni;;Benningfield;;Forward;190.5;83.915;Vanderbilt;1981-10-06;;;;;;;;;
+berezva01w;Valeriya;;Berezhynska;;Center;193.04;;Rice;1986-04-10;Nikolaev;;URS;Soviet Union;Northwest christian academy;Fort worth;TX;USA;United States of America
+berggas01w;Ashley;;Berggren;;Guard;177.8;77.111;Illinois;1976-11-18;;;;;;;;;
+berrysh01w;Shanda;;Berry;;Forward-Center;190.5;79.379;Iowa;1967-07-06;;;;;;;;;
+berthlu01w;Lucienne;;Berthieu;;Forward-Center;187.96;85.275;Old Dominion;1978-03-31;;;;;;;;;
+berubca01w;Carla;;Berube;;Forward;182.88;70.307;Connecticut;1975-09-02;;;;;;;;;
+beviltu01w;Tully;Louise;Bevilaqua (nee Crook);;Guard;170.18;65.771;;1972-07-19;Merredin;;AUS;Australia;;;;;
+bibbyhe01w;Henry;;Bibby;;;;;;;;;;;;;;;
+bibbyje01w;Jessica;;Bibby;;Guard;170.18;63.049;;1979-08-23;;;;;;;;;
+bibrzag01w;Agnieszka;;Bibrzycka;;Guard-Forward;187.96;76.203;;1982-10-21;;;;;;;;;
+birdsu01w;Suzanne;Brigit;Bird;Sue;Guard;175.26;68.039;Connecticut;1980-10-16;Syosset;;USA;United States of America;Christ the king;Middle village;NY;USA;United States of America
+bishoab01w;Abby;;Bishop;;Forward-Center;187.96;;;1988-11-29;Booleroo centre;;AUS;Australia;;;;;
+bjedoni01w;Nina;;Bjedov;;Center;198.12;88.45;;1971-05-18;;;;;;;;;
+bjorkan01w;Angie;;Bjorklund;;Forward;182.88;75.296;Tennessee;1989-07-14;Spokane valley;WA;USA;United States of America;University;Spokane valley;WA;USA;United States of America
+bjorkte01w;Tera;;Bjorklund;;Center;193.04;79.379;Colorado;1982-06-29;;;;;;;;;
+blackch01w;Chante;;Black;;Center;195.58;85.275;Duke;1985-11-12;;;;;East forsyth;Kernersville;NC;USA;United States of America
+blackde01w;Debbie;;Black;;Guard;160.02;56.245;St. Joseph's;1966-07-29;;;;;;;;;
+bladerh01w;Rhonda;Renae;Blades;;Guard;170.18;62.596;Vanderbilt;1972-10-29;Springfield;MO;USA;United States of America;Parkview;Springfield;MO;USA;United States of America
+blodgci01w;Cindy;Lee;Blodgett;;Guard;175.26;58.967;Maine;1975-12-23;Waterville;;USA;United States of America;Lawrence;Fairfield;ME;USA;United States of America
+blueni01w;Nikki;;Blue;;Guard;172.72;73.935;UCLA;1984-03-29;;;;;West bakersfield;Bakersfield;CA;USA;United States of America
+blueoc01w;Octavia;;Blue;;Forward;185.42;73.935;Miami (FL);1976-08-18;;;;;;;;;
+bobbish01w;Shannon;;Bobbitt;;Guard;157.48;58.967;Tennessee;1985-12-06;;;;;;;;;
+boddiwh01w;Whitney;Erinn;Boddie;;Guard;175.26;67.585;Auburn;1987-01-23;;;;;Florence;Florence;AL;USA;United States of America
+boguemu01w;Muggsy;;Bogues;;;;;;;;;;;;;;;
+boldeba01w;Barbara;;Bolden;;Guard;187.96;81.647;Louisiana Tech;1969-06-16;;;;;Huntington;Huntington;LA;USA;United States of America
+boltoru01w;Alice;Ruth;Bolton;Ruthie;Guard;175.26;68.039;Auburn;1967-05-25;Lucedale;;USA;United States of America;Mcclain;Mcclain;MS;USA;United States of America
+bondla01w;LaToya;;Bond;;Guard;170.18;59.874;Missouri;1984-02-13;;;;;;;;;
+bonfisu01w;Susanna;;Bonfiglio;;Guard;172.72;65.771;;1974-09-08;Savonna;;ITA;Italy;;;;;
+bonnede01w;DeWanna;;Bonner;;Guard;193.04;61.689;Auburn;1987-08-21;;;;;Fairfield;Fairfield;ME;USA;United States of America
+bookeka01w;Karen;;Booker;;Center;185.42;77.111;Vanderbilt;1965-04-10;Franklin;;USA;United States of America;;;;;
+bosweca01w;Catherine;La Ora;Boswell;Cathy;Guard-Forward;182.88;76.203;Illinois State;1962-11-10;Joliet;IL;USA;United States of America;;;;;
+bouceje01w;Jenny;;Boucek;;Guard;172.72;58.967;Virginia;1973-12-20;;;;;;;;;
+bouchke01w;Kelly;Anne;Boucher;;Forward;187.96;73.935;;1968-01-13;Calgary;;CAN;Canada;;;;;
+bowenli01w;Lindsay;;Bowen;;Guard;170.18;65.771;Michigan State;1983-10-25;;;;;;;;;
+boydca01w;Carla;Maree;Boyd;;Forward;185.42;78.018;;1975-10-31;Wynyard;;AUS;Australia;;;;;
+boyerli99w;Lisa;;Boyer;;;;;;;;;;;;;;;
+bradlki01w;Kisa;;Bradley;;Forward-Center;195.58;83.915;Oral Roberts;1974-08-26;;;;;;;;;
+brancli01w;Lisa;;Branch;;Guard;162.56;;Texas A&M;;;;;;;;;;
+branzal01w;Albena;Boicheva;Branzova;;Forward;193.04;81.647;Florida International;1971-07-17;;;;;;;;;
+branzge01w;Gergana;Boicheva;Branzova;Gigi,Branzi;Forward;193.04;79.379;Florida International;1976-07-25;Bourgas;;BUL;Bulgaria;Jurii gagarin;Bourgas;;BUL;Bulgaria
+braxtja01w;Janice;Faye;Braxton (nee Lawrence);;Forward-Center;190.5;80.739;Louisiana Tech;1973-10-06;Lucedale;;USA;United States of America;;;;;
+braxtka01w;Kara;;Braxton;;Forward-Center;198.12;95.254;Georgia;1983-02-18;;;;;;;;;
+brazian01w;Angie;;Braziel;;Forward;187.96;76.657;Texas Tech;1976-09-18;;;;;;;;;
+brcanra01w;Razija;Mijanovic;Brcaninovic;;Center;203.2;89.811;none;1967-04-15;Ratkovac;;YUG;Yugoslavia;;;;;
+brelaje01w;Jessica;;Breland;;Forward;190.5;77.111;North Carolina;1988-02-23;;;;;Bertie;Windsor;NC;USA;United States of America
+bristre01w;Reshea;;Bristol;;Guard;177.8;63.049;Arizona;1978-02-10;;;;;;;;;
+brogami01w;Michelle;Kathleen;Brogan;;Forward;185.42;80.286;;1973-02-08;Adelaid;;AUS;Australia;;;;;
+brondsa01w;Sandra;Anne;Brondello;Sandy;Guard;170.18;61.689;U. Western Sydney;1968-08-20;Eton;;AUS;Australia;Mirani state;Mirani;QLD;AUS;Australia
+brownci01w;Cynthia;Louise;Brown;Cindy;Forward-Center;187.96;83.007;Long Beach State;1965-03-16;Portland;OR;USA;United States of America;Ulysses s. grant;Portland;OR;USA;United States of America
+brownco01w;Coretta;;Brown;;Guard;175.26;68.039;North Carolina;1980-10-21;;;;;Southeast bulloch;Brooklet;GA;USA;United States of America
+brownde01w;Dee;;Brown;;;;;;;;;;;;;;;
+browned01w;Edwina;;Brown;;Guard-Forward;175.26;73.935;Texas;1978-07-01;;;;;;;;;
+brownki01w;Kiesha;;Brown;;Guard;177.8;60.781;Georgia;1979-01-13;Atlanta;GA;USA;United States of America;Woodward academy;Atlanta;GA;USA;United States of America
+brownla01w;La'Shawn;;Brown;;Center;190.5;81.647;Louisiana Tech;1972-12-01;;;;;;;;;
+brownle01w;Lesley;;Brown;;Forward;182.88;75.296;Virginia;1977-06-03;;;;;;;;;
+brownru01w;Yerushia;;Brown;Rushia;Forward;187.96;79.379;Furman;1972-05-05;New york;NY;USA;United States of America;Summerville;Summerville;SC;USA;United States of America
+brucegr99w;Greg;;Bruce;;;;;;;;;;;;;;;
+brumfma01w;Marla;;Brumfield;;Guard;172.72;60.328;Rice;1978-06-06;;;;;;;;;
+brungje01w;Jessica;;Brungo;;Forward;185.42;74.843;Penn State;1982-04-16;;;;;;;;;
+brunsre01w;Rebekkah;;Brunson;;Forward;190.5;79.379;Georgetown;1981-12-11;;;;;;;;;
+bryanjo01w;Joe;;Bryant;;;;;;;;;;;;;;;
+bullevi01w;Victoria;Andrea;Bullett;Vicky;Forward;190.5;83.915;Maryland;1967-10-04;Martinsburg;WV;USA;United States of America;Martinsburg;Martinsburg;WV;USA;United States of America
+burgean01w;Annie;Lilian;Burgess;;Guard;170.18;63.956;;1969-04-10;Port moresby;;PNG;Papua New Guinea;;;;;
+burgehe01w;Heather;;Burge;;Center;195.58;88.45;Virginia;1971-11-11;Harbor city;CA;USA;United States of America;Palos verdes;Palos verdes;CA;USA;United States of America
+burgehe02w;Heidi;Ann;Burge;;Forward;195.58;81.647;Virginia;1971-11-11;Harbor city;CA;USA;United States of America;Palos verdes;Palos verdes;CA;USA;United States of America
+burgeli01w;Linda;Gail;Burgess;;Forward;185.42;78.471;Alabama;1969-07-27;Madison;AL;USA;United States of America;Bob jones;Madison;AL;USA;United States of America
+burraal01w;Alisa;;Burras;;Center;190.5;98.883;Louisiana Tech;1975-06-23;;;;;;;;;
+burseja01w;Janell;;Burse;;Center;195.58;90.265;Tulane;1979-05-19;;;;;;;;;
+buttsta01w;Tasha;;Butts;;Guard;180.34;72.575;Tennessee;1982-03-10;;;;;;;;;
+byearla01w;Latasha;Nashay;Byears;;Guard-Forward;180.34;93.44;DePaul;1973-08-12;Memphis;;USA;United States of America;Bolton;Millington;TN;USA;United States of America
+byrdla01w;Laurie;;Byrd;;Guard;167.64;59.421;Eastern Michigan;1960-02-01;;;;;;;;;
+cabezli01w;Liliana;;Cabezas;;Forward-Center;190.5;80.739;Central Florida CC;1973-10-25;;;;;;;;;
+cainke01w;Kelley;;Cain;;Center;198.12;99.79;Tennessee;1989-05-16;;;;;St. pius x catholic;Atlanta;GA;USA;United States of America
+camba01w;Elizabeth;;Cambage;Liz;Center;203.2;97.522;none;1991-08-18;Southwark;;ENG;England;;;;;
+campbed01w;Edna;;Campbell;;Guard;172.72;68.946;Texas;1968-11-26;;;;;;;;;
+campbmi01w;Michelle;;Campbell;;Forward-Center;195.58;77.111;USC;1974-02-20;;;;;;;;;
+cantydo01w;Dominique;;Canty;;Guard-Forward;175.26;73.482;Alabama;1977-03-02;;;;;Whitney young;Chicago;IL;USA;United States of America
+careyja01w;Jamie;;Carey;;Guard;167.64;61.235;Texas;1981-03-12;;;;;Horizon;Thornton;CO;USA;United States of America
+carsoes01w;Essence;;Carson;;Guard-Forward;182.88;74.843;Rutgers;1986-07-28;;;;;Eastside;Paterson;NJ;USA;United States of America
+carteam01w;Amisha;;Carter;;Forward;187.96;83.915;Louisiana State;1982-06-21;;;;;;;;;
+cartede01w;Deborah;;Carter;;Guard-Forward;182.88;83.915;Georgia;1972-01-03;;;;;;;;;
+cartesy01w;Sydney;Rene;Carter;;Guard;167.64;;Texas A&M;1990-11-18;Dallas;TX;USA;United States of America;Desoto;Desoto;TX;USA;United States of America
+cashsw01w;Swintayla;Marie;Cash;Swin;Forward;185.42;73.482;Connecticut;1979-09-22;Mckeesport;PA;USA;United States of America;Mckeesport area;Mckeesport;PA;USA;United States of America
+cassija01w;Jamie;;Cassidy;;Center;190.5;84.822;Maine;1978-09-12;;;;;;;;;
+castriz01w;Iziane;;Castro Marques;;Guard-Forward;182.88;63.503;;1982-03-13;San luis do maranhao;;BRA;Brazil;;;;;
+catchta01w;Tamika;Devonne;Catchings;;Forward;185.42;75.75;Tennessee;1979-07-21;Stratford;;USA;United States of America;Stevenson / duncanville;Lincolnshire / duncanville;IL / TX;USA;United States of America
+caufila01w;LaNeishea;;Caufield;;Guard;175.26;72.121;Oklahoma;1980-05-25;;;;;;;;;
+cebriel01w;Elisabeth;;Cebrian Scheurer;Betty,Gigante Femenino;Center;195.58;86.182;none;1971-02-07;Reus,taragona;;ESP;Spain;;;;;
+chacoke01w;Keri;;Chaconas;;Guard;175.26;68.492;George Mason;1974-12-21;;;;;;;;;
+chambco01w;Cori;;Chambers;;Guard;175.26;72.575;Georgia;1985-07-06;;;;;;;;;
+chancva99w;Van;;Chancellor;;;;;;;;;;;;;;;
+chanequ01w;Quianna;;Chaney;;Guard;180.34;72.575;Louisiana State;1986-04-14;;;;;;;;;
+chapmji01w;Jill;;Chapman-Daily;;Center;190.5;93.44;Indiana;1979-11-04;;;;;;;;;
+charlda01w;Daedra;Janel;Charles;;Forward-Center;190.5;63.956;Tennessee;1968-11-22;Detroit;MI;USA;United States of America;;;;;
+charlti01w;Tina;Alexandria;Charles;;Center;193.04;89.811;Connecticut;1988-12-05;Flushing;;USA;United States of America;Christ the king;Middle village;NY;USA;United States of America
+chaseso01w;Sonia;Lynn;Chase;;Guard;175.26;68.039;Maryland;1976-03-09;Baltimore;MD;USA;United States of America;Mcdonough school;Owings mills;MD;USA;United States of America
+chatmda99w;Dana;;Chatman;Pokey;;;;;;;;;;;;;;
+cheekjo01w;Joy;Kristin;Cheek;;Forward;185.42;91.172;Duke;1988-06-25;Hyattsville;;USA;United States of America;South mecklenburg;Charlotte;NC;USA;United States of America
+cheruam01w;Amy;;Cherubini;;Guard;177.8;63.503;Indiana;1970-04-18;;;;;;;;;
+chestfe01w;Felicia;;Chester;;Forward;190.5;81.647;DePaul;1988-03-24;St. louis;MO;USA;United States of America;;;;;
+choneka01w;Kaayla;;Chones;;Center;190.5;81.647;North Carolina State;1981-01-11;;;;;;;;;
+chriska01w;Kayte;;Christensen;;Forward;187.96;77.564;UC Santa Barbara;1980-11-16;;;;;;;;;
+chriska02w;Karima;Brittany;Christmas;;Forward;182.88;81.647;Duke;1989-09-11;Long beach;;USA;United States of America;J. frank dobie;Houston;TX;USA;United States of America
+chrissh01w;Shameka;;Christon;;Forward;185.42;77.111;Arkansas;1982-02-15;;;;;;;;;
+cironkr01w;Kristi;Mary Rose;Cirone;;Guard;172.72;68.039;Illinois State;1987-05-19;Chicago;IL;USA;United States of America;Resurrection;Chicago;IL;USA;United States of America
+clarkal01w;Alysha;;Clark;;Forward;177.8;75.75;Middle Tennessee State;1987-07-07;;;;;;;;;
+clarkma01w;Margold;;Clark;;Forward-Center;190.5;;Arizona;1971-01-01;;;;;Senn metropolitan academy;Chicago;IL;USA;United States of America
+cleamji01w;Jim;;Cleamons;;;;;;;;;;;;;;;
+clearmi01w;Michelle;Louise;Chandler Cleary;;Guard;167.64;57.153;Australian Institute of Sport;1974-07-16;Geelong;;AUS;Australia;;;;;
+clinest01w;Stacy;;Clinesmith;;Guard;165.1;67.132;UC Santa Barbara;1978-04-22;;;;;;;;;
+coggicl01w;Claire;;Coggins;;Guard;180.34;77.111;Kansas State;1985-05-19;Lee summit;MO;USA;United States of America;Lee summit north;Lee summit;MO;USA;United States of America
+cokermo01w;Monique;;Coker;;Forward;185.42;81.647;Old Dominion;1982-11-28;;;;;;;;;
+colemco01w;Courtney;;Coleman;;Forward;182.88;77.111;Ohio State;1981-04-13;;;;;;;;;
+colemma01w;Marissa;;Coleman;;Guard-Forward;185.42;72.575;Maryland;1987-01-04;;;;;St. johns college;Washington;DC;USA;United States of America
+colleka01w;Katrina;Yvette;Colleton;Tree;Guard-Forward;177.8;65.771;Maryland;1971-03-17;Tampa;FL;USA;United States of America;East bay;Tampa;FL;USA;United States of America
+colsosy01w;Sydney;;Colson;;Guard;172.72;63.503;Texas A&M;1989-08-06;Houston;TX;USA;United States of America;Westside;Houston;TX;USA;United States of America
+compame01w;Megan;Helen;Compain;;Guard;175.26;64.864;St. Joseph's;1975-09-18;Wanganui;;NZL;New Zealand;;;;;
+congran01w;Andrea;;Congreaves;;Forward-Center;187.96;83.007;Mercer;1970-06-03;;;;;;;;;
+conklab01w;Abby;;Conklin;;Forward;190.5;79.379;Tennessee;1975-02-10;;;;;Charlestown;Charlestown;IN;USA;United States of America
+consuca01w;Cara;;Consuegra;;Guard;172.72;65.317;Iowa;1979-03-04;;;;;;;;;
+coopeca01w;Camille;;Cooper;;Center;193.04;79.832;Purdue;1979-02-05;;;;;;;;;
+coopecy01w;Cynthia;Lynne;Cooper;;Guard;177.8;68.039;USC;1963-04-14;Chicago;IL;USA;United States of America;;;;;
+coopemi01w;Michael;;Cooper;;;;;;;;;;;;;;;
+cowenda01w;Dave;;Cowens;;;;;;;;;;;;;;;
+coylepa99w;Pat;;Coyle;;;;;;;;;;;;;;;
+crawlsy01w;Sylvia;;Crawley;;Forward-Center;195.58;84.822;North Carolina;1972-09-27;;;;;;;;;
+crockda01w;Danielle;;Crockrom;;Forward;185.42;71.668;Baylor;1981-02-11;;;;;;;;;
+crockwi01w;Willnett;;Crockett;;Forward;187.96;97.522;Connecticut;1984-07-05;Los angeles;CA;USA;United States of America;Nathaniel narbonne;Harbor city;CA;USA;United States of America
+cronika01w;Katie;;Cronin;;Guard;182.88;70.307;Colorado State;1977-09-08;;;;;;;;;
+crosssh01w;Shanna;;Zolman Crossley;;Guard;177.8;70.307;Tennessee;1983-09-07;;;;;Wawasee;Syracuse;IN;USA;United States of America
+crumpca01w;Cassandra;;Crumpton-Moorer;;Guard;177.8;71.668;Alabama;1962-10-29;;;;;;;;;
+cummiki01w;Kirsten;;Cummings;;Forward;190.5;85.275;Long Beach State;1963-08-29;;;;;;;;;
+cunnibe01w;Beth;;Morgan Cunningham;;Guard;182.88;73.935;Notre Dame;1975-06-05;;;;;;;;;
+cunnida01w;Davalyn;;Cunningham;;Forward;182.88;84.822;Rutgers;1980-01-27;;;;;;;;;
+cunnima01w;Mara;;Cunningham;;Forward-Center;193.04;;Vanderbilt;1973-05-20;;;;;Fairfax;Fairfax;VA;USA;United States of America
+currimo01w;Monique;;Currie;;Forward;182.88;80.286;Duke;1983-02-25;;;;;The bullis school;Washington;DC;USA;United States of America
+curryed01w;Edniesha;;Curry;;Guard;162.56;62.596;Oregon;1979-07-09;;;;;;;;;
+dailesh99w;Shell;;Dailey;;;;;;;;;;;;;;;
+dalesst01w;Stacey;;Dales;;Guard-Forward;182.88;70.307;Oklahoma;1979-09-05;Collingwood;;CAN;Canada;;;;;
+daleygr01w;Grace;;Daley;;Guard;167.64;66.678;Tulane;1978-06-26;;;;;;;;;
+darlihe01w;Helen;;Darling;;Guard;167.64;74.389;Penn State;1978-08-29;;;;;Brookhaven;Columbus;OH;USA;United States of America
+darscna99w;Nancy;;Darsch;;;;;;;;;;;;;;;
+davenje01w;Jessica;;Davenport;;Center;195.58;97.522;Ohio State;1985-06-24;;;;;Independence;Columbus;OH;USA;United States of America
+davisbr01w;Brandi;;Davis;;Guard;182.88;78.018;Oregon;1983-01-01;;;;;;;;;
+daviscl01w;Clarissa;Glennet;Davis-Wrightsil;;Forward;185.42;74.843;Texas;1967-06-04;San antonio;;USA;United States of America;;;;;
+davisde01w;Deeona;;Davis;Dee;Guard;170.18;62.596;Vanderbilt;1984-11-08;Cincinnati;OH;USA;United States of America;Princeton;Cincinnati;OH;USA;United States of America
+davisla01w;Latina;;Davis;;Guard;170.18;65.771;Tennessee;1974-10-08;;;;;Franklin county;Winchester;TN;USA;United States of America
+davista01w;Tara;;Davis;;Forward;177.8;72.575;Washington;1972-09-25;;;;;;;;;
+davista02w;Tanae;;Davis-Cain;;Guard;180.34;;Florida State;1987-06-07;Dawson;GA;USA;United States of America;Terrell county;Dawson;GA;USA;United States of America
+dedenka01w;Karen;;Deden;;Forward;193.04;77.111;Washington;1969-09-23;;;;;Sentinel;Missoula;MT;USA;United States of America
+deforan01w;Anna;;DeForge;;Guard;177.8;72.575;Nebraska;1976-04-14;;;;;;;;;
+derevje01w;Jennifer;;Derevjanik;;Guard;177.8;63.503;George Mason;1982-03-29;;;;;;;;;
+desouer01w;Erika;Cristina;de Souza;;Forward-Center;195.58;86.182;;1982-03-03;Rio de janeiro;;BRA;Brazil;;;;;
+dickeke01w;Keitha;;Dickerson;;Forward;180.34;74.843;Texas Tech;1978-04-20;;;;;Elk city;Elk city;OK;USA;United States of America
+dillata01w;Tai;;Dillard;;Guard;175.26;69.853;Texas;1981-05-06;;;;;;;;;
+dixonin01w;Ingrid;;Dixson;;Center;190.5;;California;1972-09-16;;;;;Edgewood;West covina;CA;USA;United States of America
+dixonta01w;Tamecka;;Dixon;;Guard;175.26;67.132;Kansas;1975-12-14;;;;;Linden;Linden;NJ;USA;United States of America
+doagela01w;LaToya;;Doage;;Guard;167.64;62.142;Nebraska;1975-05-15;;;;;;;;;
+domonna01w;Nadine;;Domond;;Guard;177.8;59.874;Iowa;1975-09-28;;;;;Bridgeport central;Bridgeport;CT;USA;United States of America
+donapbe01w;Bethany;;Donaphin;;Forward-Center;187.96;88.45;Stanford;1980-08-27;;;;;;;;;
+donovan99w;Anne;;Donovan;;;;;;;;;;;;;;;
+doronsh01w;Shay;;Doron;;Guard;175.26;65.771;Maryland;1985-04-01;Ramat hasharon;;ISR;Israel;Christ the king (jr-sr);Middle village;NY;USA;United States of America
+dossaci01w;Cintia;Silva;dos Santos;;Center;195.58;84.822;;1975-01-31;Maua;;BRA;Brazil;;;;;
+douglka01w;Katie;;Douglas;;Guard-Forward;182.88;75.75;Purdue;1979-05-07;;;;;;;;;
+duffyme01w;Megan;;Duffy;;Guard;170.18;61.235;Notre Dame;1984-07-13;;;;;;;;;
+dunlavi01w;Victoria;;Dunlap;;Forward;185.42;72.575;Kentucky;1989-09-19;Nashville;;USA;United States of America;;;;;
+dunnli99wc;Lin;;Dunn;;;;;;;;;;;;;;;
+dunntr01wc;T.R.;;Dunn;;;;;;;;;;;;;;;
+dupreca01w;Candice;;Dupree;;Forward;187.96;73.482;Temple;1984-08-16;;;;;;;;;
+dydekka01w;Katarzyna;Elzbieta;Dydek;Kashka;Forward-Center;200.66;86.182;Evangel;1970-03-21;Warsaw;;POL;Poland;;;;;
+dydekma01w;Malgorzata;Teresa;Dydek;Margo;Center;;101.151;;1974-04-28;Warsaw;;POL;Poland;;;;;
+edwarmi01w;Michelle;;Edwards;;Guard;175.26;68.039;Rutgers;1966-03-06;;;;;;;;;
+edwarsi01w;Simone;;Edwards;;Center;193.04;74.389;Iowa;1973-11-17;;;;;;;;;
+edwarte01w;Teresa;;Edwards;;Guard-Forward;180.34;70.307;Georgia;1964-07-09;Cairo;;USA;United States of America;;;;;
+edwarto01w;Tonya;;Edwards;;Guard;177.8;72.575;Tennessee;1968-03-13;;;;;;;;;
+elysh01w;Shyra;;Ely;;Forward;187.96;82.554;Tennessee;1983-08-09;;;;;Ben davis;Indianapolis;IN;USA;United States of America
+enissh01w;Shalonda;;Enis;;Forward-Center;185.42;83.915;Alabama;1974-12-03;;;;;;;;;
+erbsu01w;Summer;;Erb;;Center;198.12;108.862;North Carolina State;1977-07-25;;;;;;;;;
+ervinla01w;Lauren;;Ervin;;Forward;193.04;77.564;Arkansas;1985-03-24;;;;;;;;;
+estessh99w;Sheryl;;Estes;;;;;;;;;;;;;;;
+evansda01w;Dawn;;Evans;;Guard;170.18;;James Madison;1989-06-30;;;;;Northeast;Clarksville;TN;USA;United States of America
+evansde01w;Dena;;Evans;;Guard;162.56;56.699;Virginia;1970-10-11;;;;;;;;;
+fallotr01w;Trisha;Nicole;Fallon;Trish;Guard-Forward;190.5;74.843;;1972-07-23;Melbourne;VIC;AUS;Australia;;;;;
+farriba01w;Barbara;;Farris;;Forward-Center;190.5;90.718;Tulane;1976-09-10;;;;;;;;;
+feastal01w;Allison;;Feaster;;Forward;180.34;76.203;Harvard;1976-02-11;;;;;;;;;
+feifesu01w;Sui;;Feifei;;Guard;185.42;73.482;;1979-01-29;Qingdao;;CHN;China;;;;;
+feldeja01w;Janice;;Felder;;Forward;185.42;;Southern Mississippi;1969-10-16;;;;;;;;;
+ferdima01w;Marie;;Ferdinand-Harris;;Guard;175.26;69.4;Louisiana State;1978-10-13;;;;;;;;;
+fernama01w;Marta;;Fernandez Farres;;Guard;180.34;62.596;;1981-12-21;Barcelona;;ESP;Spain;;;;;
+ferrama01w;Marina;;Ferragut Castillo;;Forward;190.5;86.182;;1972-02-11;Barcelona;;ESP;Spain;;;;;
+figgsuk01w;Ukari;Okien;Figgs;;Guard;175.26;64.41;Purdue;1977-03-31;Georgetown;;USA;United States of America;;;;;
+fijalis01w;Isabelle;;Fijalkowski;;Center;195.58;90.718;Colorado;1972-05-23;Clermont-ferrand;;FRA;France;;;;;
+firsool01w;Olga;;Firsova;;Center;198.12;97.522;Kansas State;1976-04-23;;;;;;;;;
+floremi01w;Milena;;Flores;;Guard;167.64;56.699;Stanford;1977-10-19;;;;;;;;;
+flukety01w;Tye'sha;;Fluker;;Center;195.58;94.801;Tennessee;1984-12-27;;;;;Muir;Chino;CA;USA;United States of America
+folklkr01w;Kristin;;Folkl;;Forward;187.96;86.182;Stanford;1975-12-19;;;;;St. joseph's academy;St. louis;MO;USA;United States of America
+fordch01w;Cheryl;;Ford;;Forward;190.5;89.811;Louisiana Tech;1981-06-06;Homer;;USA;United States of America;Summerfield;Summerfield;LA;USA;United States of America
+fordki01w;Kisha;;Ford;;Guard-Forward;177.8;69.4;Georgia Tech;1975-04-04;;;;;Bryn mawr;Baltimore;MD;USA;United States of America
+fordst01w;Stacey;;Ford;;Forward;187.96;83.915;Georgia;1969-01-14;;;;;;;;;
+fortnne99w;Nell;;Fortner;;;;;;;;;;;;;;;
+fostecl99w;Cliffa;;Foster;;;;;;;;;;;;;;;
+fosteto01w;Toni;;Foster;;Forward;185.42;79.379;Iowa;1971-10-16;;;;;;;;;
+fowlesy01w;Sylvia;Shaqueria;Fowles;;Center;198.12;90.718;Louisiana State;1985-10-06;Miami;FL;USA;United States of America;Gulliver prep;Miami;FL;USA;United States of America
+francde01w;Desiree;;Francis;;Forward;177.8;87.543;Iowa State;1975-08-24;;;;;;;;;
+frankaq01w;A'Quonesia;Krashun;Franklin;;Guard;162.56;69.853;Texas A&M;1985-09-29;;;;;;;;;
+frankba01w;Barb;;Franke;;Forward-Center;;;Wisconsin;;;;;;Cedar falls;Cedar falls;IA;USA;United States of America
+frazeme01w;Megan;;Frazee;;Forward;190.5;86.636;Liberty;1987-03-29;;;;;;;;;
+freemla01w;Lauretta;;Freeman;;Forward;185.42;79.379;Auburn;1971-03-17;;;;;;;;;
+fresest01w;Stacy;;Frese;;Guard;172.72;57.153;Iowa State;1976-09-23;;;;;;;;;
+frettla01w;La'Keshia;;Frett;;Forward;190.5;77.111;Georgia;1975-06-12;;;;;Phoebus;Hampton;VA;USA;United States of America
+friertr01w;Trina;;Frierson;;Forward;187.96;84.368;Louisiana Tech;1979-08-23;;;;;;;;;
+frohlli01w;Linda;;Frohlich;;Forward-Center;190.5;83.915;;1979-06-23;;;;;;;;;
+frostsh01w;Sheila;;Frost;;Center;193.04;83.461;Tennessee;1966-12-19;;;;;;;;;
+futreca01w;Candace;;Futrell;;Guard;177.8;69.853;Duquesne;1982-07-10;;;;;;;;;
+gaineco01w;Corey;;Gaines;;;;;;;;;;;;;;;
+gaithka01w;Katryna;;Gaither;;Center;190.5;77.111;Notre Dame;1975-08-13;;;;;;;;;
+gamblam01w;Amy;Jean;Gamble;;Forward;177.8;73.935;Arizona;1964-12-17;Wheeling;WV;USA;United States of America;John marshall;Glen dale;WV;USA;United States of America
+ganttr01w;Travesa;;Gant;;Center;187.96;82.1;Lamar;1971-10-10;;;;;;;;;
+garcibe01w;Begona;;Garcia Pinero;;Guard;165.1;61.235;;1976-09-03;Cadiz;;ESP;Spain;;;;;
+gardike01w;Kerri;;Gardin;;Forward;185.42;76.203;Virginia Tech;1984-05-19;;;;;;;;;
+gardnan01w;Andrea;;Gardner;;Forward-Center;190.5;86.182;Howard;1979-12-23;;;;;;;;;
+garnean01w;Andrea;;Garner;;Forward-Center;190.5;72.575;Penn State;1979-01-05;;;;;;;;;
+gaydeco01w;Cornelia;;Gayden;;Guard;175.26;68.039;Louisiana State;1971-05-11;;;;;;;;;
+gaypi01w;Pietra;;Gay;;Guard-Forward;180.34;83.007;Louisiana State;1974-08-21;;;;;;;;;
+gearlka01w;Katie;;Gearlds;;Guard-Forward;185.42;83.461;Purdue;1984-10-26;Beech grove;IN;USA;United States of America;Beech grove;Beech grove;IN;USA;United States of America
+gessiki01w;Kim;;Gessig;;Forward;190.5;79.379;USC;1970-12-29;;;;;;;;;
+gibsoke01w;Kelley;;Gibson;;Guard-Forward;177.8;61.689;Maryland;1976-11-10;;;;;;;;;
+gilbrbr01w;Briana;Renee;Gilbreath;;Guard;185.42;;USC;1990-08-16;Houston;TX;USA;United States of America;Cinco ranch;Katy;TX;USA;United States of America
+gilloje01w;Jennifer;;Gillom;;Forward-Center;190.5;81.647;Mississippi;1964-06-13;Abbeville;;USA;United States of America;;;;;
+gilmous01w;Usha;;Gilmore;;Guard;180.34;71.668;Rutgers;1978-08-24;Moncks corner;;USA;United States of America;;;;;
+gisseka01w;Kamela;;Gissendanner;;Forward;185.42;80.739;Penn State;1985-07-27;;;;;;;;;
+givench01w;Chrissy;Tiyana;Givens;;Guard;177.8;;Middle Tennessee State;1985-07-26;Monroe;LA;USA;United States of America;Ouachita;Monroe;LA;USA;United States of America
+godbyli01w;Linda;;Godby;;Forward-Center;198.12;73.935;Auburn;1968-10-17;;;;;Warren central;Warren;IN;USA;United States of America
+gomisem01w;Emilie;;Gomis;;Guard;180.34;60.781;;1983-10-18;Ziguinchor;;SEN;Senegal;;;;;
+goodemo01w;Molly;;Goodenbour;;Guard;167.64;58.967;Stanford;1972-02-08;;;;;;;;;
+goodeti01w;Tiffany;;Gooden;;Forward;180.34;74.843;Iowa;1975-10-23;;;;;R. nelson snider;Fort wayne;IN;USA;United States of America
+goodlsa01w;Sasha;Samolia;Goodlett;;Center;195.58;108.408;Georgia Tech;1990-08-09;Jackson;MS;USA;United States of America;Clinton;Jackson;MS;USA;United States of America
+goodsad01w;Adrienne;;Goodson;;Forward;182.88;74.843;Old Dominion;1966-10-19;;;;;;;;;
+gordobr01w;Bridgette;C.;Gordon;;Forward;182.88;72.121;Tennessee;1967-04-27;Deland;;USA;United States of America;;;;;
+goringi01w;Gillian;Rachael;Goring;Gigi;Center;200.66;102.058;North Carolina State (jr-sr);1983-06-07;Morvant;;TRI;Trinidad and Tobago;Waterloo west;Waterloo;IA;USA;United States of America
+gortmsh01w;Shaunzinski;;Gortman;;Guard;177.8;71.668;South Carolina;1979-12-07;;;;;;;;;
+grafca99wc;Carrie;;Graf;;;;;;;;;;;;;;;
+grahama01w;Margo;;Graham;;Center;190.5;108.862;Houston;1970-12-18;;;;;St. agnes;Houston;TX;USA;United States of America
+granter01w;Erin;;Grant;;Guard;172.72;56.699;Texas Tech;1984-06-13;;;;;Mansfield;Mansfield;TX;USA;United States of America
+gravede01w;Denique;;Graves;;Center;195.58;96.162;Howard;1975-09-16;;;;;;;;;
+graylal01w;Alexis;;Gray-Lawson;;Guard;172.72;79.832;California;1987-04-21;Oakland;CA;USA;United States of America;Oakland tech;Oakland;CA;USA;United States of America
+grecomi01w;Michelle;;Greco;;Guard;175.26;65.771;UCLA;1980-03-24;;;;;;;;;
+greenci01w;Cisti;Nicole;Greenwalt;;Center;195.58;83.007;Texas Tech;1983-04-04;Clovis;NM;USA;United States of America;Clovis;Clovis;NM;USA;United States of America
+greenka01w;Kalana;Lanette;Greene;;Guard;177.8;77.111;Connecticut;1987-07-13;St. stephen;SC;USA;United States of America;Timberland;St. stephen;SC;USA;United States of America
+grginve01w;Vedrana;;Grgin-Fonseca;;Forward;185.42;72.575;;1975-01-13;;;;;;;;;
+griffke01w;Kelsey;;Griffin;;Forward;187.96;81.193;Nebraska;1987-07-02;Eagle river;;USA;United States of America;Chugiak;Chugiak;AK;USA;United States of America
+griffyo01w;Yolanda;Yvette;Griffith;Yo Yo;Forward-Center;190.5;85.275;Florida Atlantic;1970-03-01;Chicago;IL;USA;United States of America;George washington carver;Chicago;IL;USA;United States of America
+groomla01w;LeJuana;Anjanette;Hardmon Grooms;Lady;Guard-Forward;177.8;72.575;Georgia;1970-09-12;Raleigh;;USA;United States of America;Brown;Atlanta;GA;USA;United States of America
+grubigo01w;Gordana;;Grubin;;Guard;180.34;74.843;;1972-08-20;;;;;;;;;
+grudasa01w;Sandrine;;Gruda;;Forward-Center;193.04;83.915;;1987-06-25;Cannes;;FRA;France;;;;;
+guytowa01w;Wanda;;Guyton;;Forward;185.42;80.739;South Florida;1965-10-14;;;;;Hillsborough;Tampa;FL;USA;United States of America
+hagiwmi01w;Mikiko;;Hagiwara;;Guard;180.34;73.028;;1970-04-27;Fukushima;;JPN;Japan;;;;;
+hairska01w;Kamesha;;Hairston;;Forward;182.88;68.039;Temple;1985-08-18;Toledo;OH;USA;United States of America;Bowsher;Toledo;OH;USA;United States of America
+hallam01w;Amber;;Hall;;Forward;190.5;81.647;Washington;1977-12-29;;;;;;;;;
+hallvi01w;Vicki;;Hall;;Forward;185.42;81.647;Texas;1969-10-03;;;;;;;;;
+hamblan01w;Angela;;Hamblin;Angie;Guard;177.8;77.111;Iowa;1976-09-30;;;;;Lew wallace;Gary;IN;USA;United States of America
+hammobe01w;Rebecca;Lynn;Hammon;Becky;Guard;167.64;61.689;Colorado State;1977-03-11;Rapid city;SD;USA;United States of America;Stevens;Rapid city;SD;USA;United States of America
+hamptky01w;Kym;;Hampton;;Forward;187.96;95.254;Arizona State;1962-11-03;;;;;;;;;
+hamzoro01w;Romana;;Hamzova;;Guard;175.26;68.946;;1970-08-17;Prerov;;TCH;Czechoslovakia;;;;;
+hardili01w;Lindsey;;Harding;;Guard;172.72;63.049;Duke;1984-06-12;;;;;;;;;
+hardish01w;Shantel;;Hardison;;Guard;175.26;74.843;Louisiana Tech;1969-06-27;;;;;;;;;
+hargrli99w;Linda;;Hargrove;;;;;;;;;;;;;;;
+harpela01w;Laura;;Harper;;Forward-Center;195.58;86.182;Maryland;1986-04-11;Elkins park;;USA;United States of America;Cheltenham;Wynecote;PA;USA;United States of America
+harriam01w;Amber;;Harris;;Forward;195.58;91.626;Xavier;1988-01-16;Indianapolis;IN;USA;United States of America;North central;Indianapolis;IN;USA;United States of America
+harrido01w;Donna;;Harrington;;Forward;190.5;86.182;Old Dominion;1966-09-29;;;;;;;;;
+harrifr01w;Fran;;Harris;;Guard;182.88;69.853;Texas;1965-03-12;Dallas;TX;USA;United States of America;South oak cliff;Dallas;TX;USA;United States of America
+harrili01w;Lisa;;Harrison;;Forward;185.42;74.389;Tennessee;1971-01-02;;;;;;;;;
+harrokr01w;Kristi;Lee;Harrower;;Guard;162.56;63.049;;1975-03-04;Bendigo;;AUS;Australia;;;;;
+harveca99w;Candi;;Harvey;;;;;;;;;;;;;;;
+haydeva01w;Vanessa;L'asonya;Hayden;;Center;193.04;108.862;Florida;1982-06-05;Orlando;FL;USA;United States of America;William r. boone;Orlando;FL;USA;United States of America
+hayesti01w;Tiffany;;Hayes;;Guard;177.8;;Connecticut;1989-09-20;;;;;Winter haven;Lakeland;FL;USA;United States of America
+haynikr01w;Kristin;;Haynie;;Guard;175.26;66.678;Michigan State;1983-06-17;;;;;;;;;
+headde01w;Dena;;Head;;Guard;177.8;72.575;Tennessee;1970-08-16;;;;;;;;;
+hedgpch01w;Christy;;Hedgpeth;;Guard;175.26;64.864;Stanford;1972-02-17;;;;;;;;;
+hemmera01w;Rachel;;Hemmer;;Forward-Center;190.5;;Stanford;1973-04-02;;;;;;;;;
+hendene01w;Nekeshia;;Henderson;;Guard;172.72;65.317;Texas;1973-02-28;;;;;;;;;
+hendetr01w;Tracy;;Henderson;;Center;190.5;90.718;Georgia;1974-12-31;;;;;Patrick henry;Minneapolis;MN;USA;United States of America
+henniso01w;Sonja;;Henning;;Guard;170.18;64.864;Stanford;1969-10-04;;;;;;;;;
+henryan01w;Aneika;;Henry;;Forward;190.5;92.986;Florida;1986-02-13;;;;;;;;;
+herriam01w;Amy;;Herrig;;Center;193.04;85.729;Iowa;1977-06-06;;;;;Dubuque;Dubuque;IA;USA;United States of America
+hibbeka01w;Katrina;;Hibbert;;Guard-Forward;177.8;63.503;Louisiana State;1977-09-29;;;;;;;;;
+hicksje01w;Jessie;;Hicks;;Forward-Center;193.04;85.275;Maryland;1971-12-02;;;;;;;;;
+hightal01w;Allison;Kina;Hightower;;Guard;177.8;63.049;Louisiana State;1988-04-06;Dallas;TX;USA;United States of America;Juan seguin;Arlington;TX;USA;United States of America
+hillec01w;E.C.;;Hill;;Guard;170.18;78.471;Northern Illinois;1971-04-06;;;;;;;;;
+hillmli99w;Linda;;Hill-MacDonald;;;;;;;;;;;;;;;
+hillmna01w;Na'Sheema;;Hillmon;;;;;Vanderbilt;;;;;;Trinity;Cleveland;OH;USA;United States of America
+hledeko01w;Korie;;Hlede;;Guard;175.26;68.039;Duquesne;1975-03-29;;;;;;;;;
+hodgeda01w;Dale;;Hodges;;Guard-Forward;185.42;77.111;St. Joseph's;1968-01-21;Philadelphia;;USA;United States of America;Central;Trenton;NJ;USA;United States of America
+hodgedo01w;Doneeka;;Lewis (nee Hodges);;Guard;175.26;72.575;Louisiana State;1982-07-19;;;;;;;;;
+hodgero01w;Roneeka;;Hodges;;Guard;180.34;74.843;Florida State;1982-07-19;;;;;;;;;
+hodgesa01w;Sandra;;Hodge;Sweetness;Guard-Forward;175.26;;New Orleans;1962-07-31;Clinton;;USA;United States of America;;;;;
+hoffmeb01w;Ebony;;Hoffman;;Forward;187.96;97.522;USC;1982-08-27;;;;;Narbonne;Harbor city;CA;USA;United States of America
+holdeta99w;Tammy;;Holder;;;;;;;;;;;;;;;
+holdsch01w;Chamique;Shaunta;Holdsclaw;;Forward;187.96;78.018;Tennessee;1977-08-09;Astoria;;USA;United States of America;Christ the king;Middle village;NY;USA;United States of America
+hollake01w;Kedra;;Holland-Corn;;Guard;172.72;58.513;Georgia;1974-11-05;;;;;;;;;
+holliqu01w;Quanitra;;Hollingsworth;;Center;195.58;91.172;Virginia Commonwealth;1988-11-15;Portsmouth;;USA;United States of America;Great bridge;Chesapeake;VA;USA;United States of America
+holmejo01w;Joy;;Holmes-Harris;;Forward;177.8;68.039;Purdue;1969-03-31;;;;;;;;;
+holmese01w;Sequoia;;Holmes;;Guard-Forward;185.42;70.307;UNLV;1986-06-13;;;;;;;;;
+holtam01w;Amber;;Holt;;Forward;182.88;76.203;Middle Tennessee State;1985-06-07;;;;;;;;;
+hopeky01w;Kymberly;N.;Hope;Kym,Hollywood;Center;187.96;74.843;Miami (FL);1977-11-23;Hollywood;;USA;United States of America;Mcarthur;Miami;FL;USA;United States of America
+hopsosu01w;Susie;;Hopson-Shelton;;Forward-Center;187.96;79.379;Mars Hill;1974-06-21;;;;;;;;;
+hornbal01w;Alexis;;Hornbuckle;;Guard;180.34;70.307;Tennessee;1985-10-16;;;;;South charleston;South charleston;WV;USA;United States of America
+houstch01w;Charde;;Houston;;Forward;182.88;85.729;Connecticut;1986-04-10;;;;;;;;;
+houtsas01w;Ashley;;Houts;;Guard;167.64;63.503;Georgia;1987-12-31;Trenton;NJ;USA;United States of America;Dade county;Trenton;NJ;USA;United States of America
+howarje01w;Jennifer;;Howard;;Guard;167.64;58.967;North Carolina State;1975-01-21;;;;;Fred t. foard;Vale;NC;USA;United States of America
+howarme01w;Melody;;Howard;;Guard;175.26;65.771;SW Missouri State;1972-04-02;;;;;;;;;
+hudsopa01w;Pam;;Hudson;;Forward;180.34;63.049;Northwestern State;1968-09-19;;;;;;;;;
+hugheda99w;Dan;;Hughes;;;;;;;;;;;;;;;
+hullaja99w;Jacquie;;Hullah;;;;;;;;;;;;;;;
+humphta01w;Tasha;;Humphrey;;Center;190.5;86.182;Georgia;1985-12-29;Gainesville;GA;USA;United States of America;Gainesville;Gainesville;GA;USA;United States of America
+ibekwif01w;Ify;;Ibekwe;;Forward;187.96;;Arizona;1989-10-05;Carson;;USA;United States of America;;;;;
+irvinsa01w;Sandora;;Irvin;;Forward;190.5;83.915;Texas Christian;1982-02-23;;;;;;;;;
+ivanyda01w;Dalma;;Ivanyi;;Guard;177.8;61.235;Florida International;1976-03-18;;;;;;;;;
+iveyni01w;Niele;;Ivey;;Guard;170.18;67.585;Notre Dame;1977-09-24;;;;;;;;;
+jacksan01w;Angela;;Jackson;;Center;193.04;92.986;Texas;1976-03-30;;;;;;;;;
+jacksde01w;Deanna;;Jackson;;Forward;187.96;70.307;Alabama-Birmingham;1979-12-15;;;;;;;;;
+jacksgw01w;Gwen;;Jackson;;Forward;190.5;82.554;Tennessee;1980-10-23;;;;;Eufaula;Eufaula;AL;USA;United States of America
+jacksla01w;Lauren;Elizabeth;Jackson;;Forward-Center;195.58;84.822;;1981-05-11;Albury;;AUS;Australia;;;;;
+jacksta01w;Tammy;Eloise;Jackson;;Forward-Center;190.5;81.193;Florida;1962-12-03;Gainesville;GA;USA;United States of America;;;;;
+jacksta02w;Tamicha;;Jackson;;Guard;167.64;53.524;Louisiana Tech;1978-04-22;;;;;;;;;
+jacksti01w;Tia;;Jackson;;Forward;180.34;67.132;Iowa;1972-04-21;;;;;;;;;
+jacksti02w;Tiffany;;Jackson;;Forward;190.5;83.915;Texas;1985-04-26;;;;;Duncanville;Duncanville;TX;USA;United States of America
+jacobam01w;Amber;;Jacobs;;Guard;172.72;68.946;Boston College;1982-06-29;;;;;;;;;
+jacobje01w;Jennifer;;Jacoby;;Guard;172.72;58.967;Purdue;1973-02-20;Rossville;IN;USA;United States of America;Rossville;Rossville;IN;USA;United States of America
+jamesta01w;Tamara;;James;;Forward;175.26;71.668;Miami (FL);1984-06-13;;;;;;;;;
+januabr01w;Briann;;January;;Guard;172.72;65.317;Arizona State;1987-01-11;;;;;;;;;
+jekaban01w;Anete;;Jekabsone-Zogota;;Guard;175.26;81.647;;1983-08-12;Saldus;;URS;Soviet Union;;;;;
+jenkica99w;Carolyn;;Jenkins;;;;;;;;;;;;;;;
+joensca01w;Cathy;;Joens;;Guard-Forward;180.34;74.843;George Washington;1981-02-12;;;;;;;;;
+johnsad01w;Adrienne;;Johnson;;Guard;177.8;69.853;Ohio State;1974-02-05;;;;;;;;;
+johnsch01w;Chandra;;Johnson;;Center;190.5;83.915;Wisconsin-Green Bay;1981-03-19;;;;;;;;;
+johnsda01w;Dana;;Johnson;;Center;187.96;89.358;Tennessee;1973-02-19;;;;;;;;;
+johnsgl01w;Glory;;Johnson;;Forward;190.5;77.111;Tennessee;1990-07-27;;;;;Webb school of knoxville;Knoxville;TN;USA;United States of America
+johnsja01w;Jaclyn;;Johnson;;Forward;182.88;91.172;Kansas;1979-03-16;;;;;;;;;
+johnsla01w;LaTonya;;Johnson;;Forward;185.42;68.039;Memphis;1975-08-17;;;;;;;;;
+johnsle01w;Leslie;;Johnson;;Forward;187.96;99.79;Western Kentucky;1975-01-12;;;;;Northrop;Fort wayne;IN;USA;United States of America
+johnsni01w;Niesa;;Johnson;;Guard;175.26;66.224;Alabama;1973-02-07;;;;;;;;;
+johnspo01w;Pollyanna;;Johns Kimbrough;;Center;190.5;74.843;Michigan;1975-11-06;;;;;;;;;
+johnssh01w;Shannon;Regina;Johnson;Pee-Wee;Guard;170.18;68.946;South Carolina;1974-08-18;Hartsville;SC;USA;United States of America;Hartsville;Hartsville;SC;USA;United States of America
+johnssh02w;Shenise;;Johnson;;Guard;180.34;;Miami;1990-12-08;;;;;Rush-henrietta;Henrietta;NY;USA;United States of America
+johnste01w;Temeka;;Johnson;;Guard;160.02;59.874;Louisiana State;1982-09-06;;;;;;;;;
+johnsti01w;Tiffani;;Johnson;;Center;193.04;108.862;Tennessee;1975-12-27;;;;;;;;;
+johnsvi01w;Vickie;;Johnson;;Guard-Forward;175.26;68.039;Louisiana Tech;1972-04-15;Coushatta;;USA;United States of America;;;;;
+jollyke01w;Kellie;;Jolly Harper;;Guard;175.26;67.132;Tennessee;1977-05-03;;;;;;;;;
+jonesas01w;Asjha;Takera;Jones;;Forward;187.96;88.904;Connecticut;1980-08-01;Piscataway;NJ;USA;United States of America;Piscataway;Piscataway;NJ;USA;United States of America
+jonesch01w;Chandi;;Jones;;Guard-Forward;175.26;68.039;Houston;1982-03-25;;;;;Bay city;Bay city;TX;USA;United States of America
+jonesja01w;Jameka;;Jones;;Guard;175.26;71.668;UNC Charlotte;1978-09-13;;;;;;;;;
+joneskc01w;K.C.;;Jones;;;;;;;;;;;;;;;
+jonesla01w;Larecha;;Jones;;Guard;185.42;81.647;Ohio State;1977-07-24;;;;;;;;;
+jonesma01w;Marion;Lois;Jones;;Guard;177.8;68.039;North Carolina;1975-10-12;Los angeles;CA;USA;United States of America;"Rio mesa (fr-so); thousand oaks (jr-sr)";Oxnard/thousand oaks;CA;USA;United States of America
+jonesme01w;Merlakia;;Jones;;Guard;175.26;66.678;Florida;1973-07-21;;;;;;;;;
+jordapa01w;Pauline;;Jordan;;Center;190.5;92.986;UNLV;1968-04-27;;;;;;;;;
+joyneja01w;Jacki;;Joyner-Kersee;;Forward;177.8;69.853;UCLA;1962-03-03;;;;;;;;;
+kaplaan01w;Anita;;Kaplan;;Center;195.58;81.647;Stanford;1973-04-22;;;;;;;;;
+kausaan01w;Aneta;;Kausaite;;Forward;182.88;70.307;Emporia State;1970-11-30;;;;;;;;;
+kellycr01w;Crystal;;Kelly;;Forward;187.96;86.182;Western Kentucky;1986-09-15;;;;;Sacred heart academy;Louisville;KY;USA;United States of America
+kenlaje99w;Jessie;;Kenlaw;;;;;;;;;;;;;;;
+keyst99wc;Steven;;Key;;;;;;;;;;;;;;;
+kingbsu01w;Susan;;King Borchardt;;Guard;170.18;61.235;Stanford;1981-07-27;;;;;Academy of holy angels;Richfield;MN;USA;United States of America
+kingija01w;Jae;;Kingi-Cross;;Guard;172.72;68.039;;1976-01-20;;;;;;;;;
+kizerly01w;Lynetta;;Kizer;;Forward-Center;193.04;97.522;Maryland;1990-04-04;;;;;Potomac senior;Woodbridge;VA;USA;United States of America
+klimezu01w;Zuzana;;Klimesova;Zuzi;Forward;187.96;82.1;Vanderbilt;1979-01-21;Prague;;TCH;Czechoslovakia;;;;;
+kloppga99wc;Gary;;Kloppenburg;;;;;;;;;;;;;;;
+kobryew01w;Ewelina;;Kobryn;;Forward-Center;190.5;95.254;;1982-05-07;Tarnobrzeg;;POL;Poland;;;;;
+koehnla01w;Laurie;;Koehn;;Guard;172.72;65.771;Kansas State;1982-05-13;;;;;;;;;
+korstil01w;Ilona;Kalyuvna;Korstine;;Guard;177.8;72.575;;1980-05-30;St. petersburg;;RUS;Russia;;;;;
+kossgr01w;Greta;;Koss;;Forward;185.42;65.771;Montana;1974-06-12;;;;;;;;;
+kostaan01w;Anastasia;;Kostaki;;Guard;170.18;62.142;;1978-03-26;Athens;;GRE;Greece;;;;;
+kostita01w;Tanja;;Kostic;;Forward;185.42;73.935;Oregon State;1972-11-10;;;;;;;;;
+kraayca01w;Cathrine;;Kraayeveld;;Forward;193.04;81.647;Oregon;1981-09-30;;;;;;;;;
+kubikni01w;Nicole;;Kubik;;Guard;175.26;65.771;Nebraska;1978-03-01;;;;;;;;;
+kukloan01w;Andrea;;Kuklova;;Guard;182.88;68.039;;1971-07-16;;;;;;;;;
+laceyal01w;Alison;Mavis;Lacey;;Guard;182.88;72.121;Iowa State;1987-12-26;Canberra;;AUS;Australia;;;;;
+laceytr99w;Trudi;;Lacey;;;;;;;;;;;;;;;
+lacyje01w;Jennifer;;Lacy;;Forward;190.5;79.379;Pepperdine;1983-03-21;;;;;;;;;
+lacyna01w;Natasha;;Lacy;;Guard;177.8;74.843;UTEP (sr);1985-07-08;El paso;TX;USA;United States of America;Montwood;El paso;TX;USA;United States of America
+lacyve01w;Venus;Milette;Lacy;;Center;193.04;106.141;Louisiana Tech;1967-02-09;Ruston;;USA;United States of America;;;;;
+laimbbi01w;Bill;;Laimbeer;;;;;;;;;;;;;;;
+lambesh01w;Sheila;Monique;Lambert;;Guard;170.18;56.699;Baylor;1980-07-21;Seattle;WA;USA;United States of America;Chief sealth;Seattle;WA;USA;United States of America
+lambmo01w;Monica;;Lamb;;Center;195.58;93.44;USC;1964-10-11;;;;;;;;;
+langeme01w;MerleLynn;Sabine;Lange-Harris;;Forward-Center;198.12;92.986;UNLV;1969-04-28;Toronto;;CAN;Canada;;;;;
+langhcr01w;Crystal;;Langhorne;;Forward-Center;187.96;83.461;Maryland;1986-10-27;;;;;Willingboro;Willingboro;NJ;USA;United States of America
+langja01w;Jamillah;;Lang;;Forward;182.88;83.915;Colorado;1972-06-23;;;;;;;;;
+larakr01w;Krystyna;;Lara (nee Szymanska);;Guard;172.72;58.967;;1969-09-30;Nidzica;;POL;Poland;;;;;
+larkier01w;Erlana;;Larkins;;Forward;185.42;95.254;North Carolina;1986-04-02;;;;;The benjamin school;North palm beach;FL;USA;United States of America
+lassiam01w;Amanda;;Lassiter;;Forward;185.42;72.575;Missouri;1979-06-09;;;;;;;;;
+lattaiv01w;Ivory;;Latta;;Guard;167.64;64.864;North Carolina;1984-09-24;;;;;York;Mcconnells;SC;USA;United States of America
+lavenja01w;Jantel;;Lavender;;Center;193.04;83.915;Ohio State;1988-11-12;Cleveland;OH;USA;United States of America;Central catholic;Cleveland;OH;USA;United States of America
+lawsoed01w;Edwige;;Lawson-Wade;;Guard;167.64;58.967;;1979-05-14;Rennes;;FRA;France;;;;;
+lawsoka01w;Kara;Maria;Lawson;;Guard;175.26;74.843;Tennessee;1981-02-14;Alexandria;;USA;United States of America;West springfield;Springfield;MO;USA;United States of America
+laydefr99w;Frank;;Layden;;;;;;;;;;;;;;;
+lazicka01w;Katarina;;Lazic;;Forward-Center;177.8;66.678;;1980-05-25;;;;;;;;;
+lehnish01w;Shalee;;Lehning;;Guard;175.26;66.678;Kansas State;1986-10-27;;;;;;;;;
+lennobe01w;Betty;;Lennox;;Guard;172.72;64.864;Louisiana Tech;1976-12-04;;;;;;;;;
+leslili01w;Lisa;Deshawn;Leslie;;Center;195.58;77.111;USC;1972-07-07;Gardena;;USA;United States of America;;;;;
+leuchye01w;Yelena;Stepanovna;Leuchanka;;Center;195.58;88.45;West Virginia;1983-04-30;Gomel;;URS;Soviet Union;;;;;
+levanni01w;Nicole;;Levandusky;;Guard;172.72;73.935;Xavier;1979-05-17;;;;;;;;;
+levesni01w;Nicole;;Levesque;;Guard;160.02;52.163;Wake Forest;1972-04-11;;;;;;;;;
+lewisji99w;Jim;;Lewis;;;;;;;;;;;;;;;
+lewista01w;Takeisha;;Lewis;;Forward-Center;187.96;96.162;Louisiana Tech;1979-07-10;;;;;Pineview;Lisbon;LA;USA;United States of America
+lewisty01w;Tynesha;;Lewis;;Guard;177.8;68.946;North Carolina State;1979-05-08;;;;;;;;;
+liebena01w;Nancy;Lizabeth;Lieberman-Cline;Flame,Lady Magic;Guard;177.8;68.039;Old Dominion;1958-07-01;Brooklyn;;USA;United States of America;Far rockaway;Far rockaway;NY;USA;United States of America
+lilleta01w;Taylor;Paige;Lilley;;Guard;167.64;58.967;Oregon;1988-02-29;Van nuys;;USA;United States of America;Hart;Newhall;CA;USA;United States of America
+listr01w;Tracy;;Lis;;Guard-Forward;177.8;;Providence;;;;;;;;;;
+littlca01w;Camille;;Little;;Forward;187.96;81.647;North Carolina;1985-01-18;;;;;Carver;Winston-salem;NC;USA;United States of America
+lloydan01w;Andrea;Lane;Lloyd Curry;;Forward;187.96;79.379;Texas;1965-02-09;Moscow;ID;USA;United States of America;;;;;
+lobore01w;Rebecca;Rose;Lobo;;Forward;193.04;86.182;Connecticut;1973-10-06;Hartford;;USA;United States of America;;;;;
+lovelst01w;Stacey;;Lovelace;;Forward;193.04;77.111;Purdue;1974-12-05;;;;;;;;;
+lowreja99w;Jan;;Lowrey;;;;;;;;;;;;;;;
+luckepa01w;Pat;;Luckey;;Forward;185.42;74.843;Houston;1975-05-14;;;;;San marcos;San marcos;TX;USA;United States of America
+luzhe01w;Helen;Cristina Santos;Luz;;Guard;172.72;65.317;;1972-11-23;Aracatuba;;BRA;Brazil;;;;;
+lyttlsa01w;Sancho;;Lyttle;;Forward;193.04;79.379;Houston;1983-09-20;;;;;;;;;
+mabikmw01w;Mwadi;Marie;Mabika;;Guard-Forward;180.34;74.843;;1976-07-27;Kinshasa;;COD;Democratic Republic of the Congo;;;;;
+macchla01w;Laura;;Macchi;;Forward;185.42;76.657;;1979-05-24;;;;;;;;;
+machacl01w;Clarisse;;Machanguana;;Forward-Center;195.58;81.647;Old Dominion;1976-10-04;;;;;;;;;
+maherto99w;Tom;;Maher;;;;;;;;;;;;;;;
+mahonme01w;Megan;Marie;Mahoney;;Forward;182.88;72.575;Kansas State;1983-02-13;;;;;Sturgis brown;Sturgis;SD;USA;United States of America
+mahonsh01w;Shea;;Mahoney;;Forward;193.04;80.739;Western Kentucky;1977-07-03;;;;;;;;;
+mahorri01w;Rick;;Mahorn;;;;;;;;;;;;;;;
+maigaha01w;Hamchetou;;Maiga-Ba;;Guard-Forward;185.42;72.575;Old Dominion;1978-04-25;Bamako;;MLI;Mali;;;;;
+malcona01w;Nadine;;Malcolm;;Forward;185.42;77.111;Providence;1975-11-27;;;;;;;;;
+malloam01w;Amy;;Mallon;;Guard;162.56;67.132;St. Joseph's;1970-04-21;;;;;;;;;
+malloso01w;Sonja;;Mallory;;Center;195.58;95.254;Georgia Tech;1981-09-02;;;;;;;;;
+maltsev01w;Evanthia;;Maltsi;;Guard;180.34;74.843;;1978-12-20;Goumenissa;;GRE;Greece;;;;;
+mannish01w;Sharon;;Manning;;Forward-Center;190.5;84.368;North Carolina State;1969-03-20;;;;;;;;;
+mannkr01w;Kristen;;Mann;;Forward;185.42;83.915;UC Santa Barbara;1983-08-10;;;;;;;;;
+mapprh01w;Rhonda;;Mapp;;Center;187.96;86.182;North Carolina State;1969-10-13;;;;;;;;;
+marcimi01w;Michelle;;Marciniak;;Guard;177.8;69.853;Tennessee;1973-10-29;;;;;;;;;
+margiga01w;Gabriela;;Marginean;;Forward;185.42;74.389;Drexel;1987-02-12;Cluj-napoca;;ROM;Romania;;;;;
+martima01w;Maylana;;Martin;;Forward;193.04;78.018;UCLA;1978-04-17;;;;;;;;;
+martinu01w;Nuria;;Martinez Prat;;Guard;175.26;75.75;;1984-02-29;Mataro,barcelona;;ESP;Spain;;;;;
+mascira01w;Raffaella;;Masciadri;;Forward;182.88;76.657;;1980-09-30;;;;;;;;;
+maslemi01w;Missy;;Masley;;Forward;187.96;77.111;Penn State;1974-10-10;;;;;;;;;
+matteca01w;Caity;;Matter;;Guard;175.26;75.75;Ohio State;1982-08-22;;;;;;;;;
+matteka01w;Katie;;Feenstra Mattera;;Center;203.2;108.862;Liberty;1982-11-17;;;;;;;;;
+maxwean01w;Anita;;Maxwell;;Forward;180.34;84.368;New Mexico State;1974-04-07;;;;;;;;;
+maxwemo01w;Monica;;Maxwell;;Forward;175.26;73.482;Louisiana Tech;1976-12-21;;;;;;;;;
+maytuet01w;Etta;V.;Maytubby;;Forward;182.88;;Oklahoma;1973-04-28;;;;;;;;;
+mazzake01w;Kelly;;Mazzante;;Guard;182.88;70.307;Penn State;1982-02-02;;;;;;;;;
+mccaibr01w;Brandi;;McCain;;Guard;160.02;61.235;Florida;1979-09-21;;;;;Silsbee;Silsbee;TX;USA;United States of America
+mccaiti01w;Tiffany;;McCain;;Guard-Forward;177.8;75.75;Kentucky;1976-10-06;;;;;;;;;
+mccanra01w;Rashanda;Chanee';McCants;;Forward;185.42;73.028;North Carolina;1986-11-17;;;;;Asheville;Asheville;NC;USA;United States of America
+mccarja01w;Janel;;McCarville;;Center;187.96;92.986;Minnesota;1982-11-03;;;;;;;;;
+mccarjo01w;Joanne;;McCarthy;;Guard;170.18;58.967;Illinois-Chicago;1974-10-26;Chicago;IL;USA;United States of America;;;;;
+mccarst01w;Stephanie;;McCarty;;Guard-Forward;175.26;70.307;Purdue;1977-06-20;;;;;;;;;
+mcclaka01w;Katrina;Felicia;McClain;;Forward-Center;187.96;81.647;Georgia;1965-09-19;Washington;DC;USA;United States of America;;;;;
+mcconsu01w;Suzanne;Theresa;McConnell Serio;Suzie;Guard;165.1;56.699;Penn State;1966-07-29;Pittsburgh;PA;USA;United States of America;;;;;
+mccouan01w;Angel;Lajuane;McCoughtry;;Forward;185.42;72.575;Louisville;1986-09-10;Baltimore;MD;USA;United States of America;;;;;
+mccrada01w;Danielle;;McCray;;Guard-Forward;180.34;77.111;Kansas;1987-10-08;Boynton beach;;USA;United States of America;Olathe east;Olathe;KS;USA;United States of America
+mccrani01w;Nikki;K.;McCray;;Guard;180.34;71.668;Tennessee;1971-12-11;Collierville;;USA;United States of America;;;;;
+mccrini01w;Nicky;;McCrimmon;;Guard;172.72;56.699;USC;1972-03-22;;;;;;;;;
+mcculda01w;Danielle;;McCulley;;Forward-Center;190.5;81.647;Western Kentucky;1975-01-18;;;;;;;;;
+mcgeepa01w;Pamela;Denise;McGee;;Forward-Center;190.5;90.718;USC;1962-12-01;Flint;MI;USA;United States of America;;;;;
+mcgheca01w;Carla;Renee;McGhee;;Forward-Center;185.42;81.193;Tennessee;1968-03-06;Peoria;;USA;United States of America;;;;;
+mchugma99w;Maura;;McHugh;;;;;;;;;;;;;;;
+mckivte01w;Teana;;Miller;;Forward-Center;190.5;99.79;Tulane;1980-10-05;;;;;;;;;
+mcwilta01w;Taj;;McWilliams-Franklin;;Forward-Center;187.96;85.275;St. Edwards;1970-10-20;;;;;;;;;
+meadoma99w;Marynell;;Meadors;;;;;;;;;;;;;;;
+melvich01w;Chasity;;Melvin;;Forward-Center;190.5;83.915;North Carolina State;1976-05-03;;;;;;;;;
+mendigi01w;Giuliana;;Mendiola;;Guard;180.34;78.925;Washington;1982-01-09;;;;;;;;;
+miaomi01w;Lijie;;Miao;Miao Miao;Guard;180.34;69.4;;1981-06-03;Harbin;;CHN;China;;;;;
+millebr01w;Britany;;Miller;;Center;193.04;;Florida State;1987-08-10;;;;;;;;;
+millech99w;Cheryl;;Miller;;;;;;;;;;;;;;;
+milleco01w;Coco;;Miller;;Guard;175.26;63.503;Georgia;1978-09-06;;;;;Rochester mayo;Rochester;MN;USA;United States of America
+milleke01w;Kelly;;Miller;;Guard;177.8;63.503;Georgia;1978-09-06;;;;;Rochester mayo;Rochester;MN;USA;United States of America
+millsta01w;Tausha;;Mills;;Center;190.5;105.233;Alabama;1976-02-29;;;;;;;;;
+miltode01w;DeLisha;Lachell;Milton-Jones;;Forward;185.42;83.915;Florida;1974-09-11;Jessup;;USA;United States of America;Bradswell institute;Hinesville;GA;USA;United States of America
+mitchle01w;Leilani;;Mitchell;;Guard;165.1;58.967;Utah;1985-06-15;;;;;;;;;
+mizrali01w;Limor;;Mizrachi;;Guard;170.18;58.967;Maryland;1970-06-24;;;;;;;;;
+moeggli01w;Liz;;Moeggenberg;;Forward;185.42;88.45;Michigan State;1984-05-25;;;;;;;;;
+moisead01w;Adriana;;Moises Pinto;Adrianinha;Guard;167.64;63.503;;1978-12-06;Franca;;BRA;Brazil;;;;;
+mokanch01w;Chanel;Modiri;Mokango;;Forward;195.58;;Mississippi State (jr-sr);1988-10-13;Kinshasa;;COD;Democratic Republic of the Congo;;Kinshasa;;COD;Democratic Republic of the Congo
+monroja01w;Jacinta;;Monroe;;Center;195.58;73.482;Florida State;1988-09-04;;;;;Stranahan;Fort lauderdale;FL;USA;United States of America
+montaan01w;Anna;;Montanana Gimeno;;Forward;185.42;86.182;George Washington;1980-10-24;Valencia;;ESP;Spain;;;;;
+montgal01w;Alexandria;Rochell;Montgomery;Alex;Guard-Forward;185.42;83.915;Georgia Tech;1988-11-12;Tacoma;WA;USA;United States of America;Lincoln;Tacoma;WA;USA;United States of America
+montgre01w;Renee;;Montgomery;;Guard;170.18;63.049;Connecticut;1986-12-02;;;;;;;;;
+mooreja01w;Jackie;;Moore;;Center;185.42;93.894;Long Beach State;1979-11-06;;;;;;;;;
+mooreje01w;Jessica;;Moore;;Forward-Center;190.5;79.379;Connecticut;1982-07-09;;;;;;;;;
+moorelo01w;Loree;;Moore;;Guard;175.26;74.843;Tennessee;1983-03-21;;;;;Narbonne;;;;
+moorema01w;Maya;April;Moore;;Forward;182.88;79.379;Connecticut;1989-06-11;Jefferson city;;USA;United States of America;Collins hill;Suwanee;GA;USA;United States of America
+moorena01w;Navonda;;Moore;;Guard;177.8;65.771;Alabama;1984-11-04;;;;;;;;;
+moorepe01w;Penny;;Moore;;Forward;182.88;61.235;Long Beach State;1969-01-25;;;;;;;;;
+mooreta01w;Tamara;;Moore;;Guard-Forward;180.34;75.75;Wisconsin;1980-04-11;;;;;Minneapolis north;Minneapolis;MN;USA;United States of America
+mooreyo01w;Yolanda;;Moore;;Forward;182.88;78.925;Mississippi;1974-07-01;Port gibson;MS;USA;United States of America;Port gibson;Port gibson;MS;USA;United States of America
+moosca01w;Carolyn;;Moos;;Forward-Center;198.12;82.554;Stanford;1978-05-23;;;;;The blake school;Wayzata;MN;USA;United States of America
+morehmo01w;Monique;;Morehouse;;Forward-Center;190.5;79.379;Auburn;1974-01-18;;;;;;;;;
+morgale01w;Leslie;;Morgan;;Forward;185.42;;Francis Marion;1969-11-01;;;;;;;;;
+morrich01w;Cherilyn;;Morris;;Forward;;;Southern Nazarene;;;;;;;;;;
+morrije01w;Jene;Nicole;Morris;;Guard;175.26;66.224;San Diego State;1987-07-21;San francisco;CA;USA;United States of America;Urban;San francisco;CA;USA;United States of America
+morrila01w;Laticia;;Morris;;Forward;185.42;72.575;Auburn;1974-05-26;;;;;;;;;
+morrizi01w;Ziomara;Esket;Morrison Jana;;Center;193.04;;none;1989-02-15;Santiago;;CHI;Chile;;;;;
+mosbybe01w;Bernice;;Mosby;;Forward;185.42;78.018;Baylor;1984-02-14;;;;;;;;;
+mosleju01w;Judy;;Mosley-McAfee;;Forward;185.42;77.111;Hawai'i;1968-03-17;;;;;;;;;
+moweje01w;Jennifer;;Mowe;Jenny;Center;195.58;107.048;Oregon;1978-02-25;;;;;Powers;Powers;OR;USA;United States of America
+mulitna01w;Naomi;;Mulitauaopele;;Center;190.5;93.894;Stanford;1976-03-06;;;;;;;;;
+murphma99w;Mary;;Murphy;;;;;;;;;;;;;;;
+murphsh01w;Eshaya;;Murphy;Shay;Guard;180.34;74.389;USC;1985-04-15;;;;;;;;;
+nagyan01w;Andrea;;Nagy;;Guard;170.18;66.678;Florida International;1971-11-16;;;;;;;;;
+nanch01w;Chen;;Nan;;Center;198.12;92.533;;1983-01-06;Qingdao;;CHN;China;;;;;
+ndiayas01w;Astou;;Ndiaye-Diatta;;Forward-Center;190.5;82.554;Southern Nazarene;1973-11-05;Kaolack;;SEN;Senegal;;;;;
+ndongem01w;Emmeline;;Ndongue;;Center;187.96;77.111;;1983-04-25;Auxerre;;FRA;France;;;;;
+nemcoev01w;Eva;;Nemcova;;Forward;187.96;80.739;;1972-12-03;Prague;;TCH;Czechoslovakia;;;;;
+neroja01w;Jacque;;Nero;;Forward;180.34;81.647;Alabama-Birmingham;1968-11-08;;;;;;;;;
+nevescl01w;Claudia;Maria;das Neves;Claudinha;Guard;172.72;61.689;;1975-02-17;Guaraja;;BRA;Brazil;;;;;
+newtoch01w;Chelsea;;Newton;;Guard;180.34;69.853;Rutgers;1983-02-17;;;;;Carroll;Monroe;LA;USA;United States of America
+ngarsch01w;Christelle;;N'Garsanet;;Center;190.5;76.203;Missouri;1983-06-23;;;;;;;;;
+ngoyibe01w;Bernadette;;Ngoyisa;;Center;193.04;88.45;;1982-08-26;;;;;;;;;
+nichoti01w;Tina;;Nicholson;;Guard;160.02;66.224;Penn State;1973-09-27;;;;;Downingtown;Downingtown;PA;USA;United States of America
+nieuwma01w;Marlous;;Nieuwveen;;Center;195.58;81.647;Valparaiso;1980-04-12;;;;;;;;;
+nikolmi01w;Mila;;Nikolich;;Forward;190.5;83.915;;1971-07-04;;;;;;;;;
+nnamach01w;Chioma;;Nnamaka;;Guard;182.88;70.76;Georgia Tech;1985-06-15;;;;;;;;;
+nolande01w;Deanna;;Nolan;;Guard-Forward;175.26;66.678;Georgia;1979-08-25;;;;;;;;;
+novosna01w;Natalie;;Novosel;;Guard;180.34;74.843;Notre Dame;;;;;;;;;;
+nygaava01w;Vanessa;;Nygaard;;Forward;185.42;75.296;Stanford;1975-03-13;Scottsdale;;USA;United States of America;Carlsbad;Carlsbad;CA;USA;United States of America
+ogayu01w;Yuko;;Oga;;Guard;167.64;63.503;;1982-10-17;Yamagata city;;JPN;Japan;Nagoya college;Nagoya;;JPN;Japan
+ogwumnn01w;Nneka;;Ogwumike;;Forward;187.96;;Stanford;1990-07-02;;;;;Cy-fair;Cypress;TX;USA;United States of America
+oheaje01w;Jenna;;O'Hea;;Guard-Forward;185.42;78.925;Australian Institute of Sport;1987-06-06;Traralgon;;AUS;Australia;Caulfield grammar;Melbourne;VIC;AUS;Australia
+ohldeni01w;Nicole;;Ohlde;;Forward-Center;195.58;86.182;Kansas State;1982-03-13;;;;;;;;;
+olajuab01w;Alon;Abisola Ariscate Ajo;Olajuwon;Abi;Center;193.04;107.048;Oklahoma;1988-07-06;Houston;TX;USA;United States of America;Marlborough school;Los angeles;CA;USA;United States of America
+oneilkr01w;Kristen;;O'Neill;;Guard-Forward;185.42;71.668;Washington;1983-04-12;;;;;;;;;
+orrki01w;Kira;;Orr;;Guard;167.64;63.956;Duke;1975-09-16;;;;;;;;;
+osburde01w;Debbie;;Osburn;;Center;193.04;;Oregon;1972-02-11;;;;;;;;;
+osipoir01w;Irina;Viktorovna;Osipova;;Center;195.58;86.182;;1981-06-25;Moscow;ID;USA;United States of America;;;;;
+overtbo99w;Bo;;Overton;;;;;;;;;;;;;;;
+owenhe01w;Heather;;Owen;;Forward;195.58;96.162;Stanford;1976-05-06;;;;;Moscow;Moscow;ID;USA;United States of America
+owenssh01w;Shantia;;Owens;;Center;187.96;79.379;Kentucky;1978-05-16;;;;;;;;;
+pageda01w;Danielle;;Page;;Forward;187.96;81.193;Nebraska;1986-11-14;;;;;;;;;
+pagemu01w;Murriel;;Page;;Forward;187.96;72.575;Florida;1975-09-18;;;;;;;;;
+paigeyo01w;Yolanda;;Paige;;Guard;167.64;66.678;West Virginia;1983-09-18;;;;;;;;;
+paliesa01w;Sabrina;;Palie;;Guard;170.18;72.121;;1981-07-23;;;;;;;;;
+palmewe01w;Wendy;;Palmer;;Forward;187.96;74.843;Virginia;1974-08-12;Timberlake;;USA;United States of America;Person senior;Roxboro;NC;USA;United States of America
+parisco01w;Courtney;;Paris;;Center;193.04;113.398;Oklahoma;1987-09-21;;;;;Piedmont;Piedmont;CA;USA;United States of America
+parkeca01w;Candace;Nicole;Parker;;Forward;193.04;79.379;Tennessee;1986-04-19;St. louis;MO;USA;United States of America;Naperville central;Naperville;IL;USA;United States of America
+parsoca99w;Cathy;;Parson;;;;;;;;;;;;;;;
+pascafl01w;Florina;;Pascalau;;Center;193.04;84.822;;1982-01-19;;;;;;;;;
+paschti01w;Tia;;Paschal;;Forward;185.42;74.843;Florida State;1969-03-22;;;;;;;;;
+pavlimi01w;Michaela;;Pavlickova;;Forward-Center;190.5;79.379;Denver;1977-11-27;;;;;;;;;
+payeka01w;Kate;;Paye;;Guard;172.72;68.039;Stanford;1974-03-06;;;;;;;;;
+peckca99wc;Carolyn;;Peck;;;;;;;;;;;;;;;
+pederka01w;Kayla;;Pedersen;;Forward;193.04;86.182;Stanford;1989-04-04;Flint;MI;USA;United States of America;Red mountain;Mesa;AZ;USA;United States of America
+penicti01w;Ticha;;Penicheiro;;Guard;180.34;65.771;Old Dominion;1974-09-18;;;;;;;;;
+pennjo01w;Jocelyn;;Penn;;Forward;182.88;72.575;South Carolina;1979-09-10;;;;;;;;;
+perazja01w;Jasmina;;Perazic-Gipe;;Guard-Forward;182.88;77.111;Maryland;1960-12-06;Novi sad;;YUG;Yugoslavia;;;;;
+perkiji01w;Jia;;Perkins;;Guard;172.72;70.307;Texas Tech;1982-02-23;;;;;;;;;
+perpeer01w;Erin;;Buescher Perperoglou;;Guard-Forward;190.5;82.1;The Master's College;1979-06-05;;;;;;;;;
+perroki01w;Kim;;Perrot;;Guard;165.1;58.967;SW Louisiana;1967-01-18;;;;;;;;;
+peterde01w;Devereaux;;Peters;;Forward;187.96;77.111;Notre Dame;1989-10-08;;;;;;;;;
+petroso01w;Sonja;;Petrovic;;Forward;185.42;;none;1989-02-18;;;;;;;;;
+pettibr01w;Bridget;;Pettis;;Guard;175.26;68.039;Florida;1971-01-01;;;;;;;;;
+philler01w;Erin;Victoria;Phillips;;Guard;170.18;73.482;;1985-05-19;Carlton;;AUS;Australia;;;;;
+phillpo01w;Porsha;Janel;Phillips;;Forward;187.96;78.471;Georgia;1988-01-13;Stone mountain;;USA;United States of America;Redan;Redan;GA;USA;United States of America
+phillta01w;Tari;;Phillips;;Forward-Center;187.96;90.718;Central Florida;1969-03-06;;;;;;;;;
+phillta02w;Ta'shia;;Phillips;;Center;198.12;89.811;Xavier;1989-01-24;Indianapolis;IN;USA;United States of America;Brebeuf jesuit;Indianapolis;IN;USA;United States of America
+pierspl01w;Plenette;;Pierson;;Forward-Center;187.96;82.1;Texas Tech;1981-08-30;;;;;;;;;
+plankju99w;Julie;;Plank;;;;;;;;;;;;;;;
+plowdvi01w;Vicki;;Plowden;;Forward;182.88;;Miami (FL);1971-07-22;;;;;;;;;
+pohleje01w;Jeanette;;Pohlen;;Guard;182.88;81.193;Stanford;1989-05-02;Downey;;USA;United States of America;Brea-olinda;Brea;CA;USA;United States of America
+pollica01w;Catarina;;Pollini;;Forward;195.58;74.843;Texas;1966-03-16;Vicenza;;ITA;Italy;;;;;
+pondeca01w;Cappie;Marie;Pondexter;;Guard;175.26;72.575;Rutgers;1983-01-07;Oceanside;;USA;United States of America;John marshall metro;Chicago;IL;USA;United States of America
+potthan01w;Angie;;Potthoff;;Forward;185.42;86.636;Penn State;1974-06-12;;;;;;;;;
+powelel01w;Elaine;;Powell;;Guard;172.72;68.039;Louisiana State;1975-08-09;;;;;;;;;
+powelni01w;Nicole;;Powell;;Forward;187.96;79.379;Stanford;1982-06-22;;;;;Mountain pointe;Phoenix;AZ;USA;United States of America
+prahasa01w;Samantha;;Prahalis;;Guard;170.18;58.513;Ohio State;1990-01-23;;;;;;;;;
+pricear01w;Armintie;;Price;;Guard-Forward;175.26;60.328;Mississippi;1985-04-03;;;;;;;;;
+pricefr01w;Franthea;;Price;;Guard;175.26;80.739;Iowa;1968-04-28;;;;;;;;;
+priceka01w;Katrina;;Price;;Guard;177.8;67.132;Stephen F. Austin;1975-12-03;;;;;Lavega;Waco;TX;USA;United States of America
+pridely01w;Lynn;;Pride;;Guard-Forward;187.96;81.647;Kansas;1978-10-16;;;;;Sam houston;Arlington;TX;USA;United States of America
+princep01w;Ephiphanny;;Prince;;Guard;175.26;75.75;Rutgers;1988-01-11;New york;NY;USA;United States of America;Murry bergtraum;New york;NY;USA;United States of America
+pringla01w;LaToya;;Pringle;;Forward-Center;190.5;73.482;North Carolina;1986-09-11;;;;;;;;;
+queenbr01w;Brooke;;Queenan;;Forward;187.96;83.915;Boston College;1984-04-10;;;;;;;;;
+quiglal01w;Allie;;Quigley;;Guard;177.8;63.503;DePaul;1986-06-20;;;;;Joliet catholic academy;Joliet;IL;USA;United States of America
+quinnno01w;Noelle;;Quinn;;Guard;182.88;79.379;UCLA;1985-01-03;;;;;Bishop montgomery;Los angeles;CA;USA;United States of America
+quinnte01w;Texlin;;Quinney;;Forward;193.04;74.843;Seton Hall;1974-09-07;;;;;;;;;
+radunha01w;Hajdana;;Radunovic;;Center;190.5;84.822;;1978-01-10;;;;;;;;;
+raglafe01w;Felicia;;Ragland;;Guard;170.18;60.328;Oregon State;1980-02-03;;;;;;;;;
+randase01w;Semeka;;Randall;;Guard;175.26;74.389;Tennessee;1979-02-07;;;;;Trinity;Cleveland;OH;USA;United States of America
+rasmukr01w;Kristen;;Rasmussen;;Forward;193.04;78.925;Michigan State;1978-11-01;;;;;;;;;
+ravenbr01w;Brittainey;She Von;Raven;;Guard;182.88;73.482;Texas;1988-08-01;Albuquerque;;USA;United States of America;North crowley;Fort worth;TX;USA;United States of America
+raymost01w;Stephanie;;Raymond;;Guard;165.1;63.049;Northern Illinois;1985-01-15;Rockford;IL;USA;United States of America;Lutheran;Rockford;IL;USA;United States of America
+raymota01w;Tamika;;Williams Raymond;;Forward;187.96;88.45;Connecticut;1980-04-12;;;;;Chaminade julienne;Dayton;OH;USA;United States of America
+reddja01w;Jamie;;Redd;;Forward;185.42;74.389;Washington;1977-11-05;;;;;International studies;San francisco;CA;USA;United States of America
+redmoka01w;Katelan;;Redmon;;Guard-Forward;185.42;;Gonzaga;1988-10-11;;;;;Lewis and clark;Spokane;WA;USA;United States of America
+reedbr01w;Brandy;;Reed;;Forward;185.42;76.203;Southern Mississippi;1977-02-17;;;;;;;;;
+reedch01w;Chastity;;Reed;;Forward;185.42;74.843;Arkansas-Little Rock;1989-03-28;New orleans;;USA;United States of America;;;;;
+reedmi01w;Michelle;;Reed;;Guard;180.34;74.843;Western Kentucky;1973-05-24;;;;;;;;;
+reevech99wc;Cheryl;;Reeve;;;;;;;;;;;;;;;
+reidtr01w;Tracy;;Reid;;Forward;180.34;68.039;North Carolina;1976-11-01;;;;;;;;;
+reissta01w;Tammi;;Reiss;;Guard;167.64;58.513;Virginia;1970-04-02;;;;;;;;;
+resska01w;Kathrin;;Ress;;Forward;193.04;87.997;Boston College;1985-06-26;Salorno;;ITA;Italy;Mount de chantal visitation academy;Wheeling;WV;USA;United States of America
+reynoch01w;Chontel;;Reynolds;;Forward;187.96;81.647;Houston;1972-02-08;;;;;;;;;
+richano99wc;Nolan;;Richardson;;;;;;;;;;;;;;;
+rileyan01w;Andrea;;Riley;;Guard;165.1;61.689;Oklahoma State;1988-07-22;Dallas;TX;USA;United States of America;Lincoln;Dallas;TX;USA;United States of America
+rileyru01w;Ruth;Ellen;Riley;;Center;195.58;89.811;Notre Dame;1979-08-28;Ransom;;USA;United States of America;;;;;
+rizzoje01w;Jennifer;;Rizzotti;;Guard;167.64;66.224;Connecticut;1974-05-15;;;;;;;;;
+roberav01w;Averill;;Roberts;;Guard;175.26;65.771;Ohio State;1970-01-29;;;;;;;;;
+roberny01w;Nyree;;Roberts;;Center;190.5;94.801;Old Dominion;1976-03-10;;;;;;;;;
+robertr99w;Trish;;Roberts;;;;;;;;;;;;;;;
+robinas01w;Ashley;;Robinson;;Center;193.04;81.647;Tennessee;1982-08-12;;;;;South grand prairie;Grand prairie;TX;USA;United States of America
+robincr01w;Crystal;;Robinson;;Guard-Forward;180.34;70.307;SE Oklahoma State;1974-01-22;;;;;Atoka;Atoka;OK;USA;United States of America
+robinda01w;Danielle;;Robinson;;Guard;175.26;56.699;Oklahoma;1989-05-10;San jose;;USA;United States of America;;;;;
+robinre01w;Renee;;Robinson;;Guard;180.34;75.296;Virginia;1978-06-15;;;;;;;;;
+robinsc01w;Scholanda;;Robinson Dorrell;;Guard;180.34;70.307;Louisiana State;1983-01-09;;;;;;;;;
+rolanja01w;Jannon;;Roland;;Guard-Forward;185.42;75.75;Purdue;1975-02-03;;;;;Urbana;Urbana;OH;USA;United States of America
+rollitr01w;Tree;;Rollins;;;;;;;;;;;;;;;
+rossad01w;Adrianne;;Ross;;Guard;172.72;64.41;Texas Christian;1984-11-23;;;;;;;;;
+rossca99wc;Carol;;Ross;;;;;;;;;;;;;;;
+rothsro99w;Ron;;Rothstein;;;;;;;;;;;;;;;
+rouilni01w;Nikki;;Rouillard;;Guard;170.18;58.967;Loyola Marymount;1970-01-23;;;;;;;;;
+roundsa01w;Saudia;;Roundtree;;Guard;170.18;65.771;Georgia;1976-10-04;;;;;Westside;Anderson;SC;USA;United States of America
+roussju99w;Julie;;Rousseau;;;;;;;;;;;;;;;
+ruffje01w;Jenni;;Ruff;;Guard-Forward;180.34;63.503;Washington State;1974-09-12;;;;;;;;;
+rushle01w;Leah;;Rush;;Forward;185.42;79.379;Oklahoma;1984-10-25;;;;;;;;;
+ryankr01w;Kristy;;Ryan;;Forward;180.34;68.039;Sacramento State;1972-11-19;;;;;;;;;
+rycraeu01w;Eugenia;;Rycraw;;Center;190.5;79.379;Cal State Fullerton;1968-12-06;;;;;;;;;
+salesny01w;Nykesha;;Sales;;Guard-Forward;182.88;83.461;Connecticut;1976-05-10;;;;;Bloomfield;Bloomfield;CT;USA;United States of America
+sampsch01w;Charisse;;Sampson;;Guard;180.34;79.379;Kansas;1974-09-01;;;;;Washington;Los angeles;CA;USA;United States of America
+sampsto01w;Tonya;;Sampson;;Guard;177.8;;North Carolina;1972-03-02;;;;;;;;;
+samsh01w;Sheri;;Sam;;Guard-Forward;182.88;72.575;Vanderbilt;1974-05-05;;;;;;;;;
+sanchis01w;Isabel;;Sanchez Fernandez;;Guard;177.8;68.946;;1976-11-28;Seville;;ESP;Spain;;;;;
+sandeam01w;Amy;;Sanders;;Guard;180.34;70.76;Hawai'i;1983-06-05;;;;;;;;;
+sandish01w;Shelley;Ann;Gorman- Sandie;;Guard;182.88;65.771;;1969-01-22;Melbourne;VIC;AUS;Australia;;;;;
+sanfona01w;Nakia;;Sanford;;Forward-Center;193.04;90.718;Kansas;1976-05-10;;;;;;;;;
+sanniol01w;Olayinka;;Sanni;;Center;187.96;;West Virginia;1986-08-21;;;;;;;;;
+santoal01w;Alessandra;;dos Santos de Oliveira;;Center;195.58;82.1;;1973-12-02;Sao paulo;;BRA;Brazil;;;;;
+santoke01w;Kelly;Silva;dos Santos;;Forward;190.5;85.275;;1979-11-10;Sao paulo;;BRA;Brazil;;;;;
+sarenra01w;Rankica;;Sarenac;;Center;198.12;100.697;;1974-06-27;;;;;;;;;
+sauerpa01w;Paige;;Sauer;;Center;193.04;92.079;Connecticut;1977-12-08;;;;;Carl albert;Midwest city;OK;USA;United States of America
+saundja01w;Jaynetta;;Saunders;;Forward;180.34;65.771;Texas A&M;1979-08-21;;;;;;;;;
+saureau01w;Audrey;;Sauret;;Guard;177.8;73.935;;1976-10-31;Charleville-mezieres;;FRA;France;;;;;
+savasla01w;Laure;;Savasta;;Guard;172.72;60.781;Washington;1974-03-18;Marseilles;;FRA;France;;;;;
+schumke01w;Kelly;;Schumacher;;Center;195.58;83.007;Connecticut;1977-10-14;;;;;;;;;
+schwege01w;Georgia;;Schweitzer;;Guard-Forward;182.88;72.575;Duke;1979-01-31;;;;;;;;;
+scottol01w;Olympia;;Scott;;Center;187.96;79.379;Stanford;1976-08-05;;;;;St. bernard;Los angeles;CA;USA;United States of America
+scottra01w;Raegan;;Scott;;Forward;190.5;76.657;Colorado;1975-08-12;;;;;;;;;
+shakiel01w;Elena;Rafaelovna;Shakirova (nee Bunatyants);;Forward-Center;190.5;86.182;;1970-06-02;Mary;;URS;Soviet Union;;;;;
+sharpkb01w;Kristen;Brooke;Sharp;K.B.;Guard;175.26;65.771;Cincinnati;1981-04-18;;;;;;;;;
+sharpli99w;Linda;;Sharp;;;;;;;;;;;;;;;
+sheetsh01w;Shelley;;Sheetz;;Guard;167.64;58.967;Colorado;1975-08-15;;;;;;;;;
+shegoch01w;Chalysa;Janee;Shegog;Chay;Center;195.58;;North Carolina;1990-02-22;San diego;CA;USA;United States of America;Brooke point;Stafford;VA;USA;United States of America
+shielas01w;Ashley;;Shields;;Guard;177.8;70.307;SW Tennessee CC;1985-07-15;;;;;;;;;
+shudlca01w;Carol Ann;;Shudlick;;Center;182.88;;Minnesota;1972-05-13;;;;;;;;;
+shulead01w;Adrienne;;Shuler;;Guard;167.64;69.4;Georgia;1969-04-24;;;;;;;;;
+shumajo01w;John;;Shumate;;;;;;;;;;;;;;;
+simondy01w;Dymond;;Simon;;Guard;165.1;62.142;Arizona State;1989-09-29;;;;;St. mary's;Phoenix;AZ;USA;United States of America
+simpsda01w;Darla;;Simpson;;Forward;190.5;72.575;Houston;1969-04-11;;;;;;;;;
+slaisma01w;Madinah;;Slaise;;Guard;172.72;78.471;Cincinnati;1973-08-23;;;;;;;;;
+slauggw01w;Gwen;;Slaughter;;Forward;190.5;82.1;Tulane;1980-07-01;;;;;;;;;
+slavtge01w;Gergana;;Slavtcheva;;Guard;185.42;72.575;Florida International;1979-10-20;;;;;;;;;
+smithai01w;Aiysha;;Smith;;Forward;187.96;78.471;Louisiana State;1980-07-18;;;;;;;;;
+smithbr01w;Brooke;;Smith;;Forward-Center;190.5;88.45;Stanford;1984-04-30;;;;;Marin catholic;San anselmo;CA;USA;United States of America
+smithch01w;Christy;;Smith;;Guard;170.18;63.503;Arkansas;1975-08-14;;;;;;;;;
+smithch02w;Charlotte;;Smith;;Forward;177.8;65.771;Stanford;1975-05-02;;;;;;;;;
+smithch03w;Charmin;;Smith;;Guard;182.88;67.132;North Carolina;1973-08-23;;;;;;;;;
+smithcr01w;Crystal;;Smith;;Guard;167.64;54.885;Iowa;1984-03-12;;;;;;;;;
+smithje01w;Jennifer;;Smith;;Center;190.5;89.811;Michigan;1982-04-10;;;;;;;;;
+smithka01w;Katherine;May;Smith;Katie;Guard-Forward;180.34;78.925;Ohio State;1974-06-04;Lancaster;;USA;United States of America;Logan;Logan;OH;USA;United States of America
+smithki01w;Kim;;Smith;;Forward;185.42;71.668;Utah;1984-05-07;;;;;;;;;
+smithla01w;LaCharlotte;;Smith;;Guard;170.18;68.039;Mississippi State;1974-02-06;;;;;;;;;
+smithta01w;Tangela;;Smith;;Forward-Center;193.04;72.575;Iowa;1977-04-01;;;;;Washington;Chicago;IL;USA;United States of America
+smithty01w;Tyresa;;Smith;;Forward;182.88;;Delaware;1985-04-21;;;;;;;;;
+smithwa01w;Wanisha;;Smith;;Guard;180.34;79.379;Duke;1985-07-09;Cincinnati;OH;USA;United States of America;Riverdale baptist;Upper marlboro;MD;USA;United States of America
+snellbe01w;Belinda;Rose;Snell;;Guard;175.26;77.111;University of Sydney;1981-10-01;Mirboo north;;AUS;Australia;;;;;
+snowmi01w;Michelle;;Snow;;Center;195.58;71.668;Tennessee;1980-03-20;;;;;Pensacola;Pensacola;FL;USA;United States of America
+sobrale01w;Leila;de Souza;Sobral Freitas;;Forward;185.42;83.007;;1974-11-22;Sao paulo;;BRA;Brazil;;;;;
+sobrama01w;Marta;;de Souza Sobral;;Center;190.5;73.935;;1964-03-23;Sao paulo;;BRA;Brazil;;;;;
+spencsi01w;Sidney;;Spencer;;Guard;190.5;83.007;Tennessee;1985-03-07;;;;;;;;;
+spornra01w;Rachael;Pamela;Sporn;;Forward;187.96;68.039;;1968-05-26;Murrayville;;AUS;Australia;;;;;
+stafftr01w;Trisha;;Stafford-Odom;;Forward;185.42;81.647;California;1970-11-11;;;;;;;;;
+staleda01w;Dawn;Michelle;Staley;;Guard;167.64;60.781;Virginia;1970-05-04;Philadelphia;;USA;United States of America;;;;;
+stanlma99w;Marianne;;Stanley;;;;;;;;;;;;;;;
+stansti01w;Tiffany;;Stansbury;;Forward-Center;190.5;83.007;North Carolina State;1983-01-16;;;;;;;;;
+starbka01w;Kate;;Starbird;;Guard;185.42;69.4;Stanford;1975-07-30;;;;;Lakes;Tacoma;WA;USA;United States of America
+stedika01w;Kathryn;Suzanne;Steding;Katy;Guard-Forward;182.88;78.471;Stanford;1967-12-11;Portland;OR;USA;United States of America;;;;;
+stepama01w;Maria;Aleksandrovna;Stepanova;;Center;203.2;84.822;;1979-02-23;Mikhaylovsk;;USA;United States of America;;;;;
+stephre01w;Rehema;;Stephens;;Guard;180.34;72.575;UCLA;1969-12-28;;;;;;;;;
+stephst01w;Stacy;;Stephens;;Center;193.04;92.986;Texas;1982-01-21;;;;;Winnsboro;Pensacola;FL;USA;United States of America
+sterkca01w;Carla;;Sterk;;Forward;187.96;77.111;Central Michigan;;;;;;;;;;
+stevema01w;Mandisa;;Stevenson;;Forward-Center;190.5;75.296;Auburn;1982-02-04;;;;;;;;;
+stileja01w;Jackie;;Stiles;;Guard;172.72;65.317;Missouri State;1978-12-21;;;;;Clafin;Clafin;KS;USA;United States of America
+stillva01w;Valerie;;Still;;Forward-Center;185.42;68.492;Kentucky;1961-05-14;;;;;;;;;
+stinsan01w;Andrea;;Stinson;;Guard;177.8;71.668;North Carolina State;1967-11-25;;;;;;;;;
+stiresh01w;Shanele;;Stires;;Forward;180.34;94.347;Kansas State;1972-05-21;;;;;;;;;
+stockta01w;Tamara;;Stocks;;Forward-Center;187.96;74.843;Florida;1979-01-29;;;;;Pickerington;Pickerington;OH;USA;United States of America
+streiju01w;Jurgita;;Streimikyte;;Forward;187.96;74.843;;1972-05-14;;;;;;;;;
+stricsh01w;Shekinna;;Stricklen;;Guard-Forward;187.96;80.739;Tennessee;1990-07-30;Conway;;USA;United States of America;Morrilton;Morrilton;AZ;USA;United States of America
+strotan01w;Ann;;Strother;;Guard-Forward;190.5;75.296;Connecticut;1983-12-11;;;;;Highlands;Castle rock;CO;USA;United States of America
+suberto01w;Tora;;Suber;;Guard;170.18;62.142;Virginia;1974-11-23;;;;;;;;;
+summela01w;Laura;Ann;Summerton;;Center;187.96;75.75;;1983-12-13;Adelaide;;AUS;Australia;;;;;
+sun-mju01w;Jung;;Sun-Min;;Center;185.42;76.203;;1974-10-12;Kinan;;KOR;South Korea;;;;;
+suttota01w;Tamara;Kim;Sutton-Brown;Tammy;Center;193.04;90.265;Rutgers;1978-01-27;Markham;;CAN;Canada;;;;;
+swanike01w;Ketia;;Swanier;;Guard;170.18;65.317;Connecticut;1986-08-10;;;;;;;;;
+swoopsh01w;Sheryl;Denice;Swoopes;;Guard-Forward;182.88;65.771;Texas Tech;1971-03-25;Brownfield;;USA;United States of America;;;;;
+swordca01w;Carolyn;;Swords;;Center;198.12;95.254;Boston College;1989-07-19;;;;;;;;;
+sykesap01w;April;;Sykes;;Guard-Forward;182.88;;Rutgers;1990-07-30;;;;;East oktibbeha county;Crawford;MS;USA;United States of America
+tatede01w;Deanna;;Tate;;Guard;172.72;68.039;Maryland;1966-05-13;;;;;;;;;
+tateso01w;Sonja;;Tate;;Guard;167.64;71.214;Arkansas State;1971-09-07;;;;;;;;;
+tauradi01w;Diana;Lurena;Taurasi;;Guard-Forward;182.88;78.018;Connecticut;1982-06-11;Chino;CA;USA;United States of America;Don lugo;Chino;CA;USA;United States of America
+taylode99w;Denise;;Taylor;;;;;;;;;;;;;;;
+tayloli01w;Lindsay;;Taylor;;Center;203.2;90.718;UC Santa Barbara;1981-05-20;;;;;;;;;
+taylope01w;Penelope;Jane;Taylor;Penny;Forward;185.42;76.203;;1981-05-24;Melbourne;VIC;AUS;Australia;;;;;
+teaslni01w;Nicole;;Teasley;Nikki;Guard;182.88;76.657;North Carolina;1979-03-22;;;;;St. john's at prospect hall;Frederick;MD;USA;United States of America
+teilaza01w;Zane;;Teilane Tamane;;Center;200.66;77.111;Western Illinois;1983-09-24;Riga;;URS;Soviet Union;;;;;
+terryka01w;Kasha;;Terry;;Forward-Center;190.5;83.007;Georgia Tech;1983-10-21;;;;;Douglas county;Douglasville;GA;USA;United States of America
+thibami99w;Mike;;Thibault;;;;;;;;;;;;;;;
+thirdtr01w;Traci;;Thirdgill;;Forward;180.34;72.575;Washington;1968-02-27;;;;;;;;;
+thomaca01w;Carla;;Thomas;;Forward;190.5;90.718;Vanderbilt;1985-10-31;;;;;;;;;
+thomach01w;Christi;;Thomas;;Center;190.5;83.915;Georgia;1982-08-14;;;;;;;;;
+thomaja01w;Jasmine;;Thomas;;Guard;175.26;65.771;Duke;1989-09-30;Fairfax;VA;USA;United States of America;Oakton;Vienna;VA;USA;United States of America
+thomakr01w;Krystal;;Thomas;;Center;195.58;88.45;Duke;1989-06-10;Orlando;FL;USA;United States of America;The first academy;Orlando;FL;USA;United States of America
+thomala01w;LaToya;;Thomas;;Forward;187.96;74.843;Mississippi State;1981-07-06;;;;;;;;;
+thomast01w;Stacey;;Thomas;;Forward;177.8;69.853;Michigan;1978-08-29;;;;;;;;;
+thompal01w;Alicia;;Thompson;;Forward;185.42;81.647;Texas Tech;1976-06-30;;;;;;;;;
+thompam01w;Amanda;Clara;Thompson;;Forward;185.42;77.111;Oklahoma;1987-11-18;Chicago;IL;USA;United States of America;Whitney young;Chicago;IL;USA;United States of America
+thompka99w;Karleen;;Thompson;;;;;;;;;;;;;;;
+thomppa01w;Pashen;;Thompson;;Forward;185.42;87.543;Tennessee;1975-01-16;;;;;;;;;
+thompsh01w;Sharon;;Thompson;;;;;;;;;;;;;;;
+thompti01w;Tina;Marie;Thompson;;Forward;187.96;80.739;USC;1975-02-10;Los angeles;CA;USA;United States of America;;;;;
+thorbsh01w;Shona;;Thorburn;;Guard;175.26;67.585;Utah;1982-08-07;;;;;;;;;
+thorner01w;Erin;;Thorn;;Guard;177.8;68.039;Brigham Young;1981-05-19;;;;;;;;;
+threaro01w;Robin;;Threatt;;Guard;170.18;68.039;Wisconsin;1970-07-01;;;;;;;;;
+tilliic01w;Iciss;;Tillis;;Forward-Center;195.58;74.843;Duke;1981-12-06;;;;;Cascia prep;Tulsa;OK;USA;United States of America
+timmsmi01w;Michele;Margaret;Timms;;Guard;170.18;59.874;;1965-06-28;Melbourne;VIC;AUS;Australia;;;;;
+tolerpe01w;Penny;;Toler;;Guard;172.72;59.874;Long Beach State;1966-03-24;;;;;;;;;
+tolivkr01w;Kristi;;Toliver;;Guard;170.18;58.967;Maryland;1987-01-27;;;;;Harrisonburg;Harrisonburg;VA;USA;United States of America
+torniel01w;Elena;Andronisovna;Tornikidou;;Forward;185.42;72.575;;1965-05-27;Tashkent;;URS;Soviet Union;;;;;
+torrele01w;Levys;;Torres;;Center;190.5;77.564;Florida State;1978-04-06;;;;;;;;;
+traviti01w;Tiffany;;Travis;;Guard-Forward;180.34;65.771;Flordia;1978-03-20;;;;;;;;;
+tremich01w;Chantel;;Tremitiere;;Guard;167.64;64.41;Auburn;1969-10-20;;;;;;;;;
+tricetr01w;Trena;;Trice;;Forward-Center;187.96;81.647;North Carolina State;1965-08-04;;;;;;;;;
+tunsine01w;Necole;;Tunsil;;Guard-Forward;185.42;77.111;Iowa State;1970-08-22;;;;;;;;;
+turneba01w;Barbara;;Turner;;Guard-Forward;182.88;78.018;Connecticut;1984-06-08;;;;;East tech.;Cleveland;OH;USA;United States of America
+tutermo01w;Molly;;Tuter;;Guard;182.88;70.307;Arizona State;1975-08-25;;;;;;;;;
+tuvicsl01w;Slobodanka;;Tuvic;;Center;193.04;87.997;;1977-09-19;;;;;;;;;
+tzekopo01w;Polina;;Tzekova;;Center;193.04;85.729;;1968-04-30;Pleven;;BUL;Bulgaria;;;;;
+udokamf01w;Mfon;Sunday;Udoka;;Forward;182.88;84.822;DePaul;1976-06-16;Portland;OR;USA;United States of America;Benson polytechnic;Portland;OR;USA;United States of America
+ujhelpe01w;Petra;;Ujhelyi;;Forward-Center;193.04;90.718;South Carolina;1980-12-17;;;;;;;;;
+umoh-it01w;Itoro;;Umoh-Coleman;;Guard;170.18;63.503;Clemson;1977-02-21;Washington;DC;USA;United States of America;Hephzibah;Hephzibah;GA;USA;United States of America
+valdeam01w;Amaya;;Valdemoro Madariaga;;Forward;185.42;72.575;;1976-08-18;Madrid;;ESP;Spain;;;;;
+vandeco01w;Courtney;;Vandersloot;;Guard;172.72;58.967;Gonzaga;1989-02-08;Kent;WA;USA;United States of America;Kentwood;Kent;WA;USA;United States of America
+vandehe99w;Heidi;;VanDerveer;;;;;;;;;;;;;;;
+vanemal01w;Alexandra;;VanEmbricqs;;Forward;190.5;79.379;UCLA;1968-04-14;Paramaribo;;SUR;Suriname;;;;;
+vangomi01w;Michele;;Van Gorp;;Center;198.12;84.822;Duke;1977-05-10;;;;;;;;;
+vaughki01w;Kia;;Vaughn;;Center;193.04;94.347;Rutgers;1987-01-24;;;;;St. michael academy;New york;NY;USA;United States of America
+vaughkr01w;Krystal;;Vaughn;;Forward;185.42;72.575;Virginia Commonwealth;1986-09-08;;;;;;;;;
+vealkr01w;Kristen;;Veal;;Guard;177.8;68.039;;1981-07-24;;;;;;;;;
+veselja01w;Jana;;Vesela;;Forward;190.5;88.45;none;1983-12-31;Prague;;TCH;Czechoslovakia;;;;;
+vidicbo01w;Bojanna;;Vidic;Boky;Guard;175.26;60.328;Oregon State;1973-01-07;;;;;;;;;
+viglida01w;Danielle;;Viglione;;Guard;177.8;71.214;Texas;1975-03-07;;;;;;;;;
+vilipda01w;Daliborka;;Vilipic;;Forward-Center;193.04;93.894;;1975-03-30;;;;;;;;;
+vodicka01w;Kamila;;Vodichkova;;Forward-Center;193.04;86.182;;1972-12-19;Litomerice;;TCH;Czechoslovakia;;;;;
+vodopna01w;Natalia;Aleksandrovna;Vodopyanova;;Forward;190.5;82.1;;1981-04-06;St. petersburg;;RUS;Russia;;;;;
+voigtka01w;Katie;;Voigt;;Guard;185.42;73.482;Wisconsin;1975-04-07;;;;;;;;;
+vukadmi01w;Milica;;Vukadinovic;;Guard;185.42;68.039;California;1968-11-18;;;;;;;;;
+walkeas01w;Ashley;;Walker;;Forward-Center;185.42;90.718;California;1987-02-24;;;;;;;;;
+walkeay01w;Ayana;;Walker;;Forward;190.5;64.41;Louisiana Tech;1979-09-10;;;;;;;;;
+walkeda01w;Darrell;;Walker;;;;;;;;;;;;;;;
+walkede01w;DeMya;;Walker;;Forward;190.5;76.203;Virginia;1977-11-28;;;;;Rancocas valley;Mt. holly;NJ;USA;United States of America
+walkema01w;Marcedes;;Walker;;Center;190.5;114.759;Pittsburgh;1986-10-17;;;;;;;;;
+walsema01w;Maren;;Walseth;;Forward;187.96;83.461;Penn State;1978-10-28;;;;;Thomas jefferson;Bloomington;MN;USA;United States of America
+wardvo01w;Vonda;;Ward;;Center;198.12;77.111;Tennessee;1973-03-16;Macedonia;;USA;United States of America;Trinity;Garfield heights;OH;USA;United States of America
+warleav01w;Avery;;Warley;;Center;190.5;;Liberty;1987-05-17;Washington;DC;USA;United States of America;;;;;
+washico01w;Coquese;;Washington;;Guard;167.64;62.596;Notre Dame;1971-01-17;;;;;;;;;
+washito01w;Tonya;;Washington;;Forward;180.34;72.575;Florida;1977-12-30;;;;;;;;;
+wautean01w;Ann;;Wauters;;Center;193.04;87.543;;1980-10-12;;;;;;;;;
+weathte01w;Teresa;Gaye;Weatherspoon;;Guard;172.72;73.028;Louisiana Tech;1965-12-08;Pineland;;USA;United States of America;;;;;
+webbum01w;Umeki;;Webb;;Guard-Forward;177.8;73.482;North Carolina State;1975-06-26;;;;;Justin kimball;Dallas;TX;USA;United States of America
+weberma01w;Martina;;Weber;;Center;195.58;90.718;Iona;1982-06-01;;;;;;;;;
+weckeke01w;Kendra;;Wecker;;Forward;185.42;78.018;Kansas State;1982-12-16;;;;;Marysville;Marysville;KS;USA;United States of America
+weisery99w;Ryan;;Weisenberg;;;;;;;;;;;;;;;
+westhpa99w;Paul;;Westhead;;;;;;;;;;;;;;;
+whaleli01w;Lindsay;Marie;Whalen;;Guard;172.72;68.039;Minnesota;1982-05-09;Hutchinson;;USA;United States of America;;;;;
+whisejo99w;John;;Whisenant;;;;;;;;;;;;;;;
+whitede01w;DeTrina;;White;;Forward;180.34;81.647;Louisiana State;1980-04-03;;;;;;;;;
+whiteer01w;Erica;;White;;Guard;160.02;61.235;Louisiana State;1986-08-26;;;;;;;;;
+whiteta01w;Tan;;White;;Guard;170.18;69.853;Mississippi State;1982-09-27;;;;;;;;;
+whitiva01w;Val;;Whiting-Raymond;;Forward-Center;187.96;90.265;Stanford;1972-04-09;;;;;;;;;
+whitmta01w;Tamika;;Whitmore;;Forward;187.96;86.182;Memphis;1977-06-05;;;;;;;;;
+whittje01w;Jennifer;Hazel;Whittle;;Center;195.58;79.832;;1973-09-05;Gold coast;;AUS;Australia;;;;;
+whittkh01w;Khadijah;Ameenah;Whittington;;Forward;185.42;83.915;North Carolina State;1986-08-05;;;;;;;;;
+wickssu01w;Sue;;Wicks;;Forward;190.5;86.636;Rutgers;1966-11-26;;;;;;;;;
+widemja01w;Jamila;;Wideman;;Guard;167.64;61.235;Stanford;1975-10-16;;;;;Amherst-pelham regional;Amherst;NY;USA;United States of America
+wiggica01w;Candice;;Wiggins;;Guard;180.34;69.853;Stanford;1987-02-14;;;;;;;;;
+wilkeda01w;Dana;;Wilkerson;;Guard;165.1;54.885;Long Beach State;1969-02-27;;;;;;;;;
+wilkibr01w;Brittany;;Wilkins;;Center;190.5;83.915;Iowa State;1983-06-15;;;;;;;;;
+williad01w;Adrian;;Williams-Strong;;Forward-Center;195.58;77.111;USC;1977-02-15;;;;;;;;;
+willian01w;Angelina;;Williams;;Guard;182.88;67.585;Illinois;1983-07-21;;;;;George washington;Chicago;IL;USA;United States of America
+willibe01w;Beverly;;Williams;;Guard;175.26;65.771;Texas;1965-11-09;;;;;;;;;
+willide01w;Debra;;Williams;;Guard;172.72;72.575;Louisiana Tech;1972-09-23;;;;;;;;;
+willifr99w;Fred;;Williams;;;;;;;;;;;;;;;
+willigr99w;Greg;;Williams;;;;;;;;;;;;;;;
+williki01w;Kimberly;;Williams;Kim;Guard;167.64;61.689;DePaul;1974-10-14;;;;;James marshall;Chicago;IL;USA;United States of America
+willile01w;Le'coe;;Willingham;;Forward;182.88;90.718;Auburn;1981-02-10;;;;;;;;;
+willile02w;Lenae;;Williams;;Guard-Forward;180.34;70.307;DePaul;1979-07-04;;;;;;;;;
+willili01w;Lisa;;Willis;;Guard;180.34;77.111;UCLA;1984-06-13;;;;;;;;;
+willina01w;Natalie;J.;Williams;;Forward-Center;187.96;95.254;UCLA;1970-11-30;Long beach;;USA;United States of America;Taylorsville;Taylorsville;UT;USA;United States of America
+williri01w;Rita;;Williams;;Guard;167.64;61.235;Connecticut;1976-01-14;;;;;;;;;
+williri02w;Riquna;;Williams;Bay Bay;Guard;170.18;74.843;Miami;1990-05-28;Pahokee;FL;USA;United States of America;Pahokee;Pahokee;FL;USA;United States of America
+willisa01w;Samantha;;Williams;;Guard-Forward;182.88;;Auburn;1973-09-24;;;;;;;;;
+willish01w;Shaquala;;Williams;;Guard;167.64;61.235;Oregon;1980-04-14;;;;;;;;;
+willita01w;Tara;;Williams;;Guard;180.34;77.111;Auburn;1974-07-23;;;;;;;;;
+willito01w;Toccara;;Williams;;Guard;172.72;62.596;Texas A&M;1982-01-11;;;;;;;;;
+williwe01w;Wendi;;Willits;;Guard;170.18;63.956;Arkansas;1978-11-18;Fort cobb;OK;USA;United States of America;Fort cobb-broxton;Fort cobb;OK;USA;United States of America
+wilsoam01w;Amanda;;Wilson;;Forward;180.34;79.832;Louisiana Tech;1977-02-06;;;;;;;;;
+wintebr01w;Brian;;Winters;;;;;;;;;;;;;;;
+wirthch01w;Christina;;Wirth;;Forward;185.42;83.915;Vanderbilt;1987-04-18;;;;;;;;;
+wisdoli01w;Lindsay;;Wisdom-Hylton;;Forward;187.96;84.368;Purdue;1986-05-26;;;;;;;;;
+witheso01w;Sophia;;Witherspoon;;Guard;177.8;65.771;Florida;1969-07-06;;;;;;;;;
+wojtaju01w;Julie;;Wojta;;Guard-Forward;182.88;79.379;Wisconsin-Green Bay;1989-04-09;Francis creek;;USA;United States of America;Mishicot;Mishicot;WI;USA;United States of America
+wolteka01w;Kara;Elizabeth;Wolters;;Center;200.66;102.965;Connecticut;1975-08-15;Natick;;USA;United States of America;Holliston;Holliston;MA;USA;United States of America
+wolvean01w;Angelina;Marie;Wolvert;;Forward-Center;190.5;92.986;Oregon;1978-12-08;;;;;;;;;
+woodaly01w;Lynette;;Woodard;;Guard;182.88;72.575;Kansas;1959-08-12;Wichita;;USA;United States of America;;;;;
+woodki01w;Kimberly;;Wood;;Center;193.04;;Wisconsin-Green Bay;1972-09-16;;;;;;;;;
+woolror01w;Orlando;;Woolridge;;;;;;;;;;;;;;;
+wooslti01w;Tiffany;;Woosley;;Guard;170.18;59.874;Tennessee;1973-04-04;;;;;;;;;
+wrighfa01w;Falisha;;Wright;;Guard;167.64;58.967;San Diego State;1973-01-28;;;;;;;;;
+wrighmo01w;Monica;Ashante;Wright;;Guard;180.34;80.739;Virginia;1988-07-15;San antonio;;USA;United States of America;Forest park;Woodbridge;VA;USA;United States of America
+wrighsh01w;Shereka;;Wright;;Forward;177.8;70.307;Purdue;1981-09-21;;;;;Copperas cove;Copperas cove;TX;USA;United States of America
+wrighta01w;Tanisha;;Wright;;Guard;180.34;74.843;Penn State;1983-11-20;;;;;;;;;
+wyckobr01w;Brooke;;Wyckoff;;Forward;185.42;83.007;Florida State;1980-03-30;;;;;;;;;
+wynneda01w;Dana;;Wynne;;Forward;187.96;79.379;Seton Hall;1975-02-02;;;;;;;;;
+yamasli01w;Lindsey;Brooke;Yamasaki;;Guard;185.42;86.182;Stanford;1980-06-02;;;;;Oregon city;Oregon city;OR;USA;United States of America
+yasenco01w;Corissa;Lee;Yasen;;Guard;182.88;72.575;Purdue;1973-12-05;Omaha;;USA;United States of America;Coeur d'alene;Coeur d'alene;ID;USA;United States of America
+yilmane01w;Nevriye;;Yilmaz;;Forward-Center;193.04;87.543;;1980-06-06;Plovdiv;;BUL;Bulgaria;;;;;
+youngca01w;Carolyn;;Jones Young;;Guard;175.26;79.379;Auburn;1969-07-28;Bay springs;;USA;United States of America;;;;;
+youngso01w;Sophia;;Young;;Forward;185.42;74.843;Baylor;1983-12-15;;;;;;;;;
+youngta01w;Tamera;;Young;;Forward;187.96;75.296;James Madison;1986-10-30;;;;;;;;;
+zakalok01w;Oksana;;Zakaluzhnaya;;Center;198.12;78.925;;1977-12-18;;;;;;;;;
+zarafr01w;Francesca;;Zara;;Guard;177.8;66.224;;1976-12-08;;;;;;;;;
+zellosh01w;Shavonte;;Zellous;;Guard;177.8;70.307;Pittsburgh;1986-08-28;;;;;;;;;
+zhengha01w;Haixia;;Zheng;;Center;203.2;115.212;;1967-03-07;Tuocheng;;CHN;China;;;;;
+zierddo99w;Don;;Zierden;;;;;;;;;;;;;;;
+zirkozu01w;Zuzana;;Zirkova;;Guard;175.26;65.771;;1980-06-06;Bojnice;;TCH;Czechoslovakia;;;;;
+zollsh01w;Sharnee';;Zoll;;Guard;170.18;67.132;Virginia;1986-07-11;;;;;;;;;
