@@ -2,6 +2,7 @@
 CON_APP="app"
 if docker ps -q -f name=^/${CON_APP}$; then
     docker stop "${CON_APP}"
+    docker rm "${CON_APP}"
 fi
 docker run -d -p 8080:8080 --name app app
 docker network connect my-tiny-network app
@@ -10,6 +11,7 @@ docker network connect my-tiny-network app
 CON_DB="db"
 if docker ps -q -f name=^/${CON_DB}$; then
     docker stop "${CON_DB}"
+    docker rm "${CON_DB}"
 fi
 docker run -d -p 5432:5432 --name db db
 docker network connect my-tiny-network db
